@@ -87,7 +87,7 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: fricker12
+          plugin_music_user: .user.fricker12
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
