@@ -28,7 +28,7 @@ ___
   * *Published on 26 Jul 2022*
 * [Mullvad is now available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
   * *Published on 26 Jul 2022*
-* [The Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
+* [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
   * *Published on 26 Jul 2022*
 
 
