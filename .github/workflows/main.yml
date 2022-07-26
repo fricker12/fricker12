@@ -29,7 +29,7 @@ jobs:
           # Options
           user: fricker12
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_display: large
           config_timezone: Europe/Kiev
           config_twemoji: yes
@@ -124,6 +124,17 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
           plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 15
@@ -132,7 +143,7 @@ jobs:
           plugin_traffic: yes
           filename: metrics.plugin.skyline.city.svg
           plugin_skyline: yes
-          plugin_skyline_year: 2020
+          plugin_skyline_year: 2022
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
