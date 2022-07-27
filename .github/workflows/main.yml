@@ -140,7 +140,7 @@ jobs:
           filename: metrics.plugin.skyline.city.svg
           plugin_skyline: yes
           plugin_skyline_year: 2022
-          plugin_skyline_frames: 6
+          plugin_skyline_frames: 120
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
             {
@@ -149,3 +149,5 @@ jobs:
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
+          
+
