@@ -763,7 +763,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Serverless DNS: Self-Hosted DNS Resolver at the Edge</div>
+                                <div class="title">ImHex – A Hex Editor</div>
                                 <div class="date">30 Jul 2022</div>
                             </div>
                         </div>
@@ -772,7 +772,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Archive of Visualized Concepts</div>
+                                <div class="title">Serverless DNS: Self-hosted DNS resolver at the edge</div>
                                 <div class="date">30 Jul 2022</div>
                             </div>
                         </div>
@@ -781,7 +781,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An accentuated Emacs experiment (à la macOS)</div>
+                                <div class="title">Arris / Arris-variant DSL/Fiber router critical vulnerability exposure</div>
                                 <div class="date">30 Jul 2022</div>
                             </div>
                         </div>
@@ -790,7 +790,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CZ5B (Chinese rocket) Reentry Prediction</div>
+                                <div class="title">Clojure needs a Rails, but not for the reason you think</div>
                                 <div class="date">30 Jul 2022</div>
                             </div>
                         </div>
@@ -4529,14 +4529,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2022, 19:27:12 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 20:19:26 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
