@@ -781,7 +781,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Software engineering books</div>
+                                <div class="title">Launch HN: Polymath Robotics (YC S22) – General autonomy for industrial vehicles</div>
                                 <div class="date">1 Aug 2022</div>
                             </div>
                         </div>
@@ -790,7 +790,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Army Camouflage Improvement Explained – Part 1 (2013)</div>
+                                <div class="title">Running Zig with WASI on Cloudflare Workers</div>
                                 <div class="date">1 Aug 2022</div>
                             </div>
                         </div>
@@ -4504,14 +4504,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2022, 19:31:36 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 20:28:09 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
