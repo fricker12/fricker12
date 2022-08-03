@@ -780,7 +780,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hijacking Email with Cloudflare Email Routing</div>
+                                <div class="title">Why do tree-based models still outperform deep learning on tabular data?</div>
                                 <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
@@ -789,7 +789,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Political Chips</div>
+                                <div class="title">Hijacking Email with Cloudflare Email Routing</div>
                                 <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
@@ -4522,7 +4522,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 19:29:40 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 20:21:57 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
