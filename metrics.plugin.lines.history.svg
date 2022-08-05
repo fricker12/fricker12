@@ -762,7 +762,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DreamWorks Animation to release MoonRay as open source</div>
+                                <div class="title">Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -771,7 +771,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Patent Act requires an inventor to be a natural person, not an AI [pdf]</div>
+                                <div class="title">What Ever Happened to the Transhumanists?</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -789,7 +789,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nix: Taming Unix with Functional Programming</div>
+                                <div class="title">A Phoenix record store owner set the audiophile world on fire</div>
                                 <div class="date">5 Aug 2022</div>
                             </div>
                         </div>
@@ -4502,14 +4502,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 21:26:10 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 22:17:33 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
