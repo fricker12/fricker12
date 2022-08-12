@@ -632,14 +632,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.018,5.026A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9851261620185923"/>
+                                        <path d="M106.017,5.026A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9851169383416017"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,105.756,5.034L108,80Z" class="ct-slice-pie" ct:value="0.004161133244798583"/>
+                                        <path d="M108,5A75,75,0,0,0,105.755,5.034L108,80Z" class="ct-slice-pie" ct:value="0.004163713678242381"/>
                                     </g>
                                     <g>
-                                        <text dx="108.49551601149324" dy="117.49672604218071" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.50448398850678" dy="42.50327395781928" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.49582660610228" dy="117.49672193641307" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.50417339389769" dy="42.50327806358693" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -4598,7 +4598,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 10 Aug 2022, 20:10:34
+                            On 11 Aug 2022, 22:44:17
                         </div>
                     </section>
                 </div>
@@ -4608,14 +4608,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            edit alarm msg
+                            add moderator
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">839600f9</span>
-                            <span class="code">startbot.py</span>
+                            <span class="code">8df45d61</span>
+                            <span class="code">config.py</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -4623,7 +4623,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -562,6 +562,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">global COUNT<br /></span><span class="token prefix unchanged">·</span><span class="token line">COUNT[message.from_user.id] = COUNT.get(message.from_user.id, 0) + 1<br /></span><span class="token prefix unchanged">·</span><span class="token line">user_count = COUNT.get(message.from_user.id)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># if user_count == 2:<br /></span><span class="token prefix unchanged">·</span><span class="token line"># engine.say(random.choice(random_voice))<br /></span><span class="token prefix unchanged">·</span><span class="token line"># engine.runAndWait()</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,6 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">'TOKEN': '5303576535:AAE6f9Pz1gNMzNYr05MJi-U0fANSO1RFWIM',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'TOKEN2': '5367018059:AAH4zltSP3tFvVf6uTf4cQh4QQB9x6-1pLg',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'USER_ID': 195496547,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">'MODERATOR': 137646375,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">'consumer_key': 'P73yodskHy8bgU7QpiSHyJEUj',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'consumer_secret': '7lDk9p2AdbV1GpefCu7hcJkZ2s60XF66zhmyRY1LB8Mnw0czC9',<br /></span><span class="token prefix unchanged">·</span><span class="token line">'access_token': '816700206033014784-tTtZP4JLUa4gRCcbyCV0Vy1J5lnjwNv',</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4638,14 +4638,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 07:35:01 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 08:20:57 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
