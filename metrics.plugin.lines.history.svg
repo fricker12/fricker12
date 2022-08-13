@@ -632,10 +632,10 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.65,5.012A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9916954597805662"/>
+                                        <path d="M106.65,5.012A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9915151515151515"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.388,5.017L108,80Z" class="ct-slice-pie" ct:value="0.002849002849002849"/>
+                                        <path d="M108,5A75,75,0,0,0,106.388,5.017L108,80Z" class="ct-slice-pie" ct:value="0.0028484848484848484"/>
                                     </g>
                                     <g>
                                         <text dx="108.33747682758766" dy="117.49848142779706" text-anchor="middle" class="ct-label">Python</text>
@@ -776,7 +776,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tauri – Creating Tiny Desktop Apps With React/Vue</div>
+                                <div class="title">Show HN: I will now send this to beginner programmers</div>
                                 <div class="date">13 Aug 2022</div>
                             </div>
                         </div>
@@ -785,7 +785,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Improving Postgres Text Search Speed</div>
+                                <div class="title">Self-taught AI shows similarities to how the brain works</div>
                                 <div class="date">13 Aug 2022</div>
                             </div>
                         </div>
@@ -794,7 +794,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Local simulation feature to be removed from all Autodesk Fusion 360 versions</div>
+                                <div class="title">Autodesk criticised by 35 named architects (2020)</div>
                                 <div class="date">13 Aug 2022</div>
                             </div>
                         </div>
@@ -4635,14 +4635,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2022, 07:28:36 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 08:18:16 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
