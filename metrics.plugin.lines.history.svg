@@ -631,14 +631,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.649,5.012A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9864212432106216"/>
+                                        <path d="M106.224,5.021A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9822148446763102"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.387,5.017L108,80Z" class="ct-slice-pie" ct:value="0.002836451418225709"/>
+                                        <path d="M108,5A75,75,0,0,0,105.963,5.028L108,80Z" class="ct-slice-pie" ct:value="0.003715121334281875"/>
                                     </g>
                                     <g>
-                                        <text dx="108.33778563771226" dy="117.49847864731255" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.66221436228773" dy="42.50152135268745" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.44391307048764" dy="117.49737245709159" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.55608692951236" dy="42.50262754290842" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -775,25 +775,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Elements of Programming</div>
+                                <div class="date">14 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mexican Loan Apps, Extortion, and the Google Play Store</div>
+                                <div class="date">14 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Paradigms of Artificial Intelligence Programming</div>
-                                <div class="date">14 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">List of over 500 Swedish tech startups and scaleups</div>
-                                <div class="date">14 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Windows 11 x64 security hardening guide</div>
                                 <div class="date">14 Aug 2022</div>
                             </div>
                         </div>
@@ -4645,14 +4645,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2022, 17:18:55 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 18:21:06 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
