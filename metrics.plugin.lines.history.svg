@@ -631,14 +631,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.65,5.012A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9863740504039551"/>
+                                        <path d="M106.224,5.021A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9822148446763102"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.388,5.017L108,80Z" class="ct-slice-pie" ct:value="0.0028337151814783555"/>
+                                        <path d="M108,5A75,75,0,0,0,105.963,5.028L108,80Z" class="ct-slice-pie" ct:value="0.003715121334281875"/>
                                     </g>
                                     <g>
-                                        <text dx="108.33747682758766" dy="117.49848142779706" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.66252317241235" dy="42.50151857220293" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.44391307048764" dy="117.49737245709159" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.55608692951236" dy="42.50262754290842" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -766,7 +766,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The layoffs at Klarna</div>
+                                <div class="title">Three papers highlight results of record yield nuclear fusion shot</div>
                                 <div class="date">14 Aug 2022</div>
                             </div>
                         </div>
@@ -775,17 +775,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Hacker News Predictions</div>
-                                <div class="date">14 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Nuclear Fusion Breakthrough California Team Achieved Ignition</div>
-                                <div class="date">14 Aug 2022</div>
+                                <div class="title">Puppertino: A CSS framework based on Human Guidelines from Apple</div>
+                                <div class="date">12 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -795,6 +786,15 @@
                             <div class="infos">
                                 <div class="title">Oasis: Small statically-linked Linux system</div>
                                 <div class="date">14 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: A web text-editor where you can write, compute and draw</div>
+                                <div class="date">13 Aug 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4652,7 +4652,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2022, 22:16:27 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 23:20:31 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
