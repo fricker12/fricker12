@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4565" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4563" class="large">
     <defs>
         <style/>
     </defs>
@@ -631,14 +631,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.205,5.021A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9820273184759166"/>
+                                        <path d="M106.244,5.021A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9823285636093518"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,105.944,5.028L108,80Z" class="ct-slice-pie" ct:value="0.003754293473919642"/>
+                                        <path d="M108,5A75,75,0,0,0,105.982,5.027L108,80Z" class="ct-slice-pie" ct:value="0.003675033231683478"/>
                                     </g>
                                     <g>
-                                        <text dx="108.44866096320469" dy="117.49731594847952" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.55133903679528" dy="42.50268405152049" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.43909044591251" dy="117.49742923961999" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.56090955408743" dy="42.50257076038001" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -766,7 +766,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cloud.gov</div>
+                                <div class="title">The layoffs at Klarna</div>
                                 <div class="date">14 Aug 2022</div>
                             </div>
                         </div>
@@ -793,7 +793,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mexican Loan Apps, Extortion, and the Google Play Store</div>
+                                <div class="title">Show HN: Hacker News Predictions</div>
                                 <div class="date">14 Aug 2022</div>
                             </div>
                         </div>
@@ -4645,14 +4645,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2022, 19:27:09 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 20:19:45 (timezone Europe/Kiev) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
