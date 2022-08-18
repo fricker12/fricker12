@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4978" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="5031" class="large">
     <defs>
         <style/>
     </defs>
@@ -749,14 +749,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M106.864,5.009A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9885624237494917"/>
+                                        <path d="M106.586,5.013A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9857954545454546"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.602,5.013L108,80Z" class="ct-slice-pie" ct:value="0.00238918259455063"/>
+                                        <path d="M108,5A75,75,0,0,0,106.324,5.019L108,80Z" class="ct-slice-pie" ct:value="0.002967171717171717"/>
                                     </g>
                                     <g>
-                                        <text dx="108.28403632438449" dy="117.49892429612387" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.71596367561551" dy="42.50107570387612" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.35352924470794" dy="117.49833352394658" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.64647075529204" dy="42.501666476053416" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -4708,7 +4708,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 16 Aug 2022, 14:47:47
+                            On 15 Aug 2022, 17:48:33
                         </div>
                     </section>
                 </div>
@@ -4718,22 +4718,22 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add spam
+                            fix
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">de80554e</span>
-                            <span class="code">config.py</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">ffcc2abf</span>
+                            <span class="code">startbot.py</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -56,3 +56,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">random_voice = ['Я пердоле курва яке быдло ебане',<br /></span><span class="token prefix unchanged">·</span><span class="token line">               'курва я пердоле', 'нарываешься', 'Не матерись', 'забаню', 'чую дух москальский в тебя я', 'накажу']<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">userlist = ['195496547', '1020563481']</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -563,7 +563,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      text='Играть в RPS', callback_data="RPS")<br /></span><span class="token prefix unchanged">·</span><span class="token line">  Rullet = InlineKeyboardButton(<br /></span><span class="token prefix unchanged">·</span><span class="token line">      text='Играть в Рулетку', callback_data="Rullet")<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  GamesKB.row(RPS)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  GamesKB.row(RPS, Rullet)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  await bot.send_message(GROUP_ID, callback.from_user.full_name + ' чтобы сыграть со мной добавь себе бота или перейди по\nhttps://t.me/korolov_tusovkabot', reply_markup=GamesKB)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4748,14 +4748,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2022, 09:26:44 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 18 Aug 2022, 10:19:22 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
