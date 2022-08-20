@@ -911,7 +911,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Put it on the crazy pile: Ideas and creativity</div>
+                                <div class="title">Supabase Vault</div>
                                 <div class="date">20 Aug 2022</div>
                             </div>
                         </div>
@@ -4761,7 +4761,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2022, 23:21:13 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 00:19:06 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
