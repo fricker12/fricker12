@@ -898,8 +898,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeBSD on the Framework Laptop</div>
-                                <div class="date">23 Aug 2022</div>
+                                <div class="title">Common tech jobs described as cabals of Mesoamerican wizards</div>
+                                <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -907,8 +907,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Futures of Inform</div>
-                                <div class="date">23 Aug 2022</div>
+                                <div class="title">Heroku Status: Issues with upstream DNS provider</div>
+                                <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -916,8 +916,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Perfluorocubane is (as you would expect) weird</div>
-                                <div class="date">23 Aug 2022</div>
+                                <div class="title">The Future of Nginx: Getting Back to Our Open Source Roots</div>
+                                <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4720,14 +4720,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2022, 01:20:39 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 02:31:07 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
