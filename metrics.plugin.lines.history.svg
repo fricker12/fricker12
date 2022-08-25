@@ -754,14 +754,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.195,5.004A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9895107173105739"/>
+                                        <path d="M106.402,5.017A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.97936426557293"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.933,5.008L108,80Z" class="ct-slice-pie" ct:value="0.0016939214281060655"/>
+                                        <path d="M108,5A75,75,0,0,0,106.14,5.023L108,80Z" class="ct-slice-pie" ct:value="0.0033324788515765188"/>
                                     </g>
                                     <g>
-                                        <text dx="108.20133023019481" dy="117.49945954461757" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.7986697698052" dy="42.50054045538243" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.39950370351842" dy="117.49787189682735" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.60049629648158" dy="42.502128103172645" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -898,6 +898,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Why your website should be under 14kb in size</div>
+                                <div class="date">25 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">EPB launches America’s first community-wide 25 gig internet service</div>
                                 <div class="date">24 Aug 2022</div>
                             </div>
@@ -907,17 +916,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GeForce Now: A Review</div>
-                                <div class="date">25 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">A Theoretical Justification (2021)</div>
-                                <div class="date">25 Aug 2022</div>
+                                <div class="title">You Can 3D Print and Build This 164mm f/2.5 Lens for Less Than $15</div>
+                                <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4733,7 +4733,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 05:13:10 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 07:41:18 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
