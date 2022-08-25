@@ -754,14 +754,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.195,5.004A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9895107173105739"/>
+                                        <path d="M107.195,5.004A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9895093503616342"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.933,5.008L108,80Z" class="ct-slice-pie" ct:value="0.0016939214281060655"/>
+                                        <path d="M108,5A75,75,0,0,0,106.933,5.008L108,80Z" class="ct-slice-pie" ct:value="0.0016941421776242914"/>
                                     </g>
                                     <g>
-                                        <text dx="108.20133023019481" dy="117.49945954461757" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.7986697698052" dy="42.50054045538243" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.20135669986287" dy="117.49945940249566" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.79864330013713" dy="42.50054059750433" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -907,8 +907,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You Can 3D Print and Build This 164mm f/2.5 Lens for Less Than $15</div>
-                                <div class="date">24 Aug 2022</div>
+                                <div class="title">Imagen: An AI system that creates photorealistic images from input text</div>
+                                <div class="date">25 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -916,7 +916,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EPB launches America’s first community-wide 25 gig internet service</div>
+                                <div class="title">You can 3D print and build a 164mm f/2.5 lens for less than $15</div>
                                 <div class="date">24 Aug 2022</div>
                             </div>
                         </div>
@@ -4726,14 +4726,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 08:55:29 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 09:37:47 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
