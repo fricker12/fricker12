@@ -885,15 +885,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SpaceX, T-Mobile to connect satellites to cellphones in remote areas</div>
-                                <div class="date">26 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Oberon: The tiniest but richest FOSS HLL and OS you've never heard of</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
@@ -903,7 +894,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unstripping Stripped Binaries</div>
+                                <div class="title">Why Xen Wasn't Hit by RETBleed on Intel CPUs</div>
+                                <div class="date">26 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">SpaceX, T-Mobile to connect satellites to cellphones in remote areas</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -3274,7 +3274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sam1808/DialogFlow-bots</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BOT : Telegram &amp; VK.com bots with Google DialogFlow base</div>
@@ -4728,14 +4728,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 13:23:16 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 14:18:22 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
