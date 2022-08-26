@@ -885,7 +885,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amazon Reportedly Makes Offer to Acquire Electronic Arts</div>
+                                <div class="title">Oberon (2009)</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -894,7 +894,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oberon: The tiniest but richest FOSS HLL and OS you've never heard of (2009)</div>
+                                <div class="title">Amid Chip Shortages, Companies Bet on RISC-V</div>
+                                <div class="date">26 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Poll: Contractors, what is your hourly rate</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -904,15 +913,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">The Toxic Culture of Rejection in Computer Science</div>
-                                <div class="date">26 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why Xen Wasn't Hit by RETBleed on Intel CPUs</div>
                                 <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
@@ -4728,14 +4728,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 15:41:02 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 16:39:15 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
