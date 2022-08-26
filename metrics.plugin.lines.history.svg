@@ -753,14 +753,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.202,5.004A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9896048553719008"/>
+                                        <path d="M107.197,5.004A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9895420591101007"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,106.94,5.007L108,80Z" class="ct-slice-pie" ct:value="0.0016787190082644629"/>
+                                        <path d="M108,5A75,75,0,0,0,106.935,5.008L108,80Z" class="ct-slice-pie" ct:value="0.0016888600194868463"/>
                                     </g>
                                     <g>
-                                        <text dx="108.19950748306036" dy="117.49946928643395" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="107.8004925169397" dy="42.50053071356605" text-anchor="middle" class="ct-label">Procfile</text>
+                                        <text dx="108.20072334277619" dy="117.49946279801438" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="107.79927665722379" dy="42.500537201985615" text-anchor="middle" class="ct-label">Procfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -897,15 +897,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Devbox – Easy, predictable shells and containers</div>
-                                <div class="date">26 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Your online identity is owned by your email provider (2019)</div>
                                 <div class="date">23 Aug 2022</div>
                             </div>
@@ -915,8 +906,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sanyo Triple Five</div>
-                                <div class="date">24 Aug 2022</div>
+                                <div class="title">Unstripping Stripped Binaries</div>
+                                <div class="date">26 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: Devbox – Easy, predictable shells and containers</div>
+                                <div class="date">26 Aug 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4731,14 +4731,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 07:48:29 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 09:00:02 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
