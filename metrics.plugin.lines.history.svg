@@ -295,8 +295,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−20k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L83.66666666666666,140.5L128.33333333333334,140.5L173,140.5L217.66666666666666,140.5L262.3333333333333,140.5L307,140.5L351.6666666666667,140.5L396.3333333333333,140.5L441,140.5L441,140.3674050351392L396.3333333333333,137.84207365892715L351.6666666666667,134.7502001601281L307,138.20972333422296L262.3333333333333,114.86095543101148L217.66666666666666,131.50162352103905L173,121.93067787563383L128.33333333333334,132.58649141535452L83.66666666666666,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L83.66666666666666,140.5L128.33333333333334,140.5L173,140.5L217.66666666666666,140.5L262.3333333333333,140.5L307,140.5L351.6666666666667,140.5L396.3333333333333,140.5L441,140.5L441,140.56629748243037L396.3333333333333,141.10270438573082L351.6666666666667,142.8143848412063L307,177.9219153100258L262.3333333333333,142.33824837647896L217.66666666666666,146.48485455030692L173,143.80884707766214L128.33333333333334,142.22976158704742L83.66666666666666,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L83.66666666666666,140.5L128.33333333333334,140.5L173,140.5L217.66666666666666,140.5L262.3333333333333,140.5L307,140.5L351.6666666666667,140.5L396.3333333333333,140.5L441,140.5L441,140.3674050351392L396.3333333333333,137.84207365892715L351.6666666666667,134.7502001601281L307,138.20972333422296L262.3333333333333,120.97840494617917L217.66666666666666,131.50162352103905L173,121.93067787563383L128.33333333333334,132.58649141535452L83.66666666666666,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L83.66666666666666,140.5L128.33333333333334,140.5L173,140.5L217.66666666666666,140.5L262.3333333333333,140.5L307,140.5L351.6666666666667,140.5L396.3333333333333,140.5L441,140.5L441,140.56629748243037L396.3333333333333,141.10270438573082L351.6666666666667,142.8143848412063L307,177.9219153100258L262.3333333333333,141.13283960501735L217.66666666666666,146.48485455030692L173,143.80884707766214L128.33333333333334,142.22976158704742L83.66666666666666,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -894,25 +894,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">What would a “good” WebMD look like?</div>
+                                <div class="date">30 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">REPL Driven Minecraft</div>
+                                <div class="date">30 Aug 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Launch HN: Be Golden (YC S22) – Measure and manage your inflammation levels</div>
-                                <div class="date">30 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Becoming a Systems Architect – 10 years into a software engineering career</div>
-                                <div class="date">30 Aug 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why is WebMD so awful?</div>
                                 <div class="date">30 Aug 2022</div>
                             </div>
                         </div>
@@ -4724,14 +4724,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2022, 17:20:28 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 18:22:17 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
