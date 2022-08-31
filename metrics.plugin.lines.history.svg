@@ -897,8 +897,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable Diffusion is a big deal</div>
-                                <div class="date">29 Aug 2022</div>
+                                <div class="title">Film: Frame Interpolation for Large Motion</div>
+                                <div class="date">31 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -906,8 +906,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Film: Frame Interpolation for Large Motion</div>
-                                <div class="date">31 Aug 2022</div>
+                                <div class="title">Stable Diffusion is a big deal</div>
+                                <div class="date">29 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -3280,7 +3280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Get0457/Mica-VSCode</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4758,7 +4758,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2022, 12:22:29 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 13:23:54 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
