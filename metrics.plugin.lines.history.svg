@@ -752,7 +752,7 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9738518270197788"/>
+                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.973781512605042"/>
                                     </g>
                                     <g>
                                         <text dx="108" dy="80" text-anchor="middle" class="ct-label">Python</text>
@@ -901,8 +901,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS now scans for malware whenever it gets a chance</div>
-                                <div class="date">1 Sept 2022</div>
+                                <div class="title">Not Your Grandmother's Textbook Exercise</div>
+                                <div class="date">2 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -910,7 +910,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">One million queries per second with MySQL</div>
+                                <div class="title">macOS now scans for malware whenever it gets a chance</div>
                                 <div class="date">1 Sept 2022</div>
                             </div>
                         </div>
@@ -4751,14 +4751,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 01:20:50 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 02:22:33 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
