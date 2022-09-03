@@ -900,8 +900,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DockYard R&amp;D: FireFly Optimizes Your Elixir Compilation</div>
-                                <div class="date">3 Sept 2022</div>
+                                <div class="title">Roaring bitmaps: what they are and how they work</div>
+                                <div class="date">2 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -909,8 +909,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Roaring bitmaps: what they are and how they work</div>
-                                <div class="date">2 Sept 2022</div>
+                                <div class="title">DockYard R&amp;D: FireFly Optimizes Your Elixir Compilation</div>
+                                <div class="date">3 Sept 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4730,7 +4730,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2022, 21:25:35 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 22:18:18 (timezone Europe/Kiev) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
