@@ -885,8 +885,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: How to validate a startup idea whilst employed?</div>
-                                <div class="date">17 Sept 2022</div>
+                                <div class="title">Show HN: I may have created a new type of puzzle</div>
+                                <div class="date">18 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -894,8 +894,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everyone you meet is living a story that you know nothing about</div>
-                                <div class="date">18 Sept 2022</div>
+                                <div class="title">Ask HN: How to validate a startup idea whilst employed?</div>
+                                <div class="date">17 Sept 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -912,8 +912,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Phorge: Going Public</div>
-                                <div class="date">17 Sept 2022</div>
+                                <div class="title">What will you do with the stories entrusted to you?</div>
+                                <div class="date">18 Sept 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4790,7 +4790,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2022, 08:44:53 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Sept 2022, 09:28:37 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
