@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/Air_Alarm</span>
+                            <span class="diff-handle">fricker12/DBManager</span>
                         </div>
                     </section>
                     <section>
@@ -204,12 +204,12 @@
                             <span> </span>
                         </div>
                         <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +2.14k</span> <span class="deleted">     -2</span></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-stats"><span class="added">     +0</span> <span class="deleted">     -0</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -307,8 +307,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−20k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L72.5,140.5L106,140.5L139.5,140.5L173,140.5L206.5,140.5L240,140.5L273.5,140.5L307,140.5L340.5,140.5L374,140.5L407.5,140.5L441,140.5L441,139.09569878124722L407.5,137.69742460635175L374,139.71045725469267L340.5,140.3674050351392L307,137.84207365892715L273.5,134.7502001601281L240,138.20972333422296L206.5,120.97840494617917L173,131.50162352103905L139.5,121.93067787563383L106,132.58649141535452L72.5,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L72.5,140.5L106,140.5L139.5,140.5L173,140.5L206.5,140.5L240,140.5L273.5,140.5L307,140.5L340.5,140.5L374,140.5L407.5,140.5L441,140.5L441,140.93997420158345L407.5,142.03689618361355L374,141.02435281558581L340.5,140.56629748243037L307,141.10270438573082L273.5,142.8143848412063L240,177.9219153100258L206.5,141.13283960501735L173,146.48485455030692L139.5,143.80884707766214L106,142.22976158704742L72.5,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L72.5,140.5L106,140.5L139.5,140.5L173,140.5L206.5,140.5L240,140.5L273.5,140.5L307,140.5L340.5,140.5L374,140.5L407.5,140.5L441,140.5L441,139.09569878124722L407.5,137.69742460635175L374,139.71045725469267L340.5,140.3674050351392L307,137.84207365892715L273.5,134.7502001601281L240,138.20972333422296L206.5,133.9003869762477L173,131.50162352103905L139.5,121.93067787563383L106,132.58649141535452L72.5,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L72.5,140.5L106,140.5L139.5,140.5L173,140.5L206.5,140.5L240,140.5L273.5,140.5L307,140.5L340.5,140.5L374,140.5L407.5,140.5L441,140.5L441,140.93997420158345L407.5,142.03689618361355L374,141.02435281558581L340.5,140.56629748243037L307,141.10270438573082L273.5,142.8143848412063L240,177.9219153100258L206.5,141.12078551730272L173,146.48485455030692L139.5,143.80884707766214L106,142.22976158704742L72.5,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -4783,14 +4783,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2022, 11:27:28 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Sept 2022, 12:21:50 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
