@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            388 Commits
+                            389 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DBManager</span>
+                            <span class="diff-handle">fricker12/fricker12</span>
                         </div>
                     </section>
                     <section>
@@ -204,12 +204,12 @@
                             <span> </span>
                         </div>
                         <div class="field">
-                            <div class="diff-box "></div>
-                            <div class="diff-box "></div>
-                            <div class="diff-box "></div>
-                            <div class="diff-box "></div>
-                            <div class="diff-box "></div>
-                            <div class="diff-stats"><span class="added">     +0</span> <span class="deleted">     -0</span></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +1.01k</span> <span class="deleted">   -200</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -226,45 +226,37 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,14.600746268656728)">
+                            <g class="tick" opacity="1" transform="translate(0,12.320037986704655)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">3.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,55.213358657803106)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,46.20055970149254)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">1.5k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,77.80037313432835)">
+                            <g class="tick" opacity="1" transform="translate(0,98.10667932890155)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">1.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,109.4001865671642)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">500</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,172.59981343283584)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−500</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,204.1996268656716)">
+                            <g class="tick" opacity="1" transform="translate(0,183.89332067109845)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,235.79944029850745)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−1.5k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,267.39925373134326)">
+                            <g class="tick" opacity="1" transform="translate(0,226.7866413421969)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−2.0k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,269.6799620132954)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−3.0k</text>
+                            </g>
                         </g>
                         <path d="M240,140.5L240,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M240,140.5L240,140.62639925373136Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M240,140.5L240,149.1644507755619Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -581,12 +573,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 41 commits)</small>
+                    <small class="h-details">(computed from last 42 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 49.3 characters per line of code written</li>
+                        <li>Has approximately 49.1 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -608,8 +600,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,118.125,200.217,111.25C206.522,104.375,212.826,70,219.13,70C225.435,70,231.739,70,238.043,70C244.348,70,250.652,125,256.957,125C263.261,125,269.565,111.25,275.87,111.25C282.174,111.25,288.478,125,294.783,125C301.087,125,307.391,15,313.696,15C320,15,326.304,15,332.609,15C338.913,15,345.217,70,351.522,70C357.826,70,364.13,70,370.435,70C376.739,70,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,83.75,446.087,83.75C452.391,83.75,458.696,102.083,465,111.25L465,125Z" class="ct-area"/>
-                                        <path d="M30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,118.125,200.217,111.25C206.522,104.375,212.826,70,219.13,70C225.435,70,231.739,70,238.043,70C244.348,70,250.652,125,256.957,125C263.261,125,269.565,111.25,275.87,111.25C282.174,111.25,288.478,125,294.783,125C301.087,125,307.391,15,313.696,15C320,15,326.304,15,332.609,15C338.913,15,345.217,70,351.522,70C357.826,70,364.13,70,370.435,70C376.739,70,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,83.75,446.087,83.75C452.391,83.75,458.696,102.083,465,111.25" class="ct-line"/>
+                                        <path d="M30,125L30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,118.125,200.217,111.25C206.522,104.375,212.826,76.875,219.13,70C225.435,63.125,231.739,56.25,238.043,56.25C244.348,56.25,250.652,125,256.957,125C263.261,125,269.565,111.25,275.87,111.25C282.174,111.25,288.478,125,294.783,125C301.087,125,307.391,15,313.696,15C320,15,326.304,15,332.609,15C338.913,15,345.217,70,351.522,70C357.826,70,364.13,70,370.435,70C376.739,70,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,83.75,446.087,83.75C452.391,83.75,458.696,102.083,465,111.25L465,125Z" class="ct-area"/>
+                                        <path d="M30,111.25C36.304,115.833,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,118.125,200.217,111.25C206.522,104.375,212.826,76.875,219.13,70C225.435,63.125,231.739,56.25,238.043,56.25C244.348,56.25,250.652,125,256.957,125C263.261,125,269.565,111.25,275.87,111.25C282.174,111.25,288.478,125,294.783,125C301.087,125,307.391,15,313.696,15C320,15,326.304,15,332.609,15C338.913,15,345.217,70,351.522,70C357.826,70,364.13,70,370.435,70C376.739,70,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,83.75,446.087,83.75C452.391,83.75,458.696,102.083,465,111.25" class="ct-line"/>
                                         <line x1="30" y1="111.25" x2="30.01" y2="111.25" class="ct-point" ct:value="1"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
@@ -621,7 +613,7 @@
                                         <line x1="181.30434782608697" y1="125" x2="181.31434782608696" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="200.21739130434784" y1="111.25" x2="200.22739130434783" y2="111.25" class="ct-point" ct:value="1"/>
                                         <line x1="219.13043478260872" y1="70" x2="219.1404347826087" y2="70" class="ct-point" ct:value="4"/>
-                                        <line x1="238.0434782608696" y1="70" x2="238.05347826086958" y2="70" class="ct-point" ct:value="4"/>
+                                        <line x1="238.0434782608696" y1="56.25" x2="238.05347826086958" y2="56.25" class="ct-point" ct:value="5"/>
                                         <line x1="256.95652173913044" y1="125" x2="256.9665217391304" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="275.8695652173913" y1="111.25" x2="275.8795652173913" y2="111.25" class="ct-point" ct:value="1"/>
                                         <line x1="294.7826086956522" y1="125" x2="294.7926086956522" y2="125" class="ct-point" ct:value="0"/>
@@ -634,7 +626,7 @@
                                         <line x1="427.1739130434783" y1="125" x2="427.1839130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="446.0869565217392" y1="83.75" x2="446.0969565217392" y2="83.75" class="ct-point" ct:value="3"/>
                                         <line x1="465.00000000000006" y1="111.25" x2="465.01000000000005" y2="111.25" class="ct-point" ct:value="1"/>
-                                    <text x="30" y="106.25" class="ct-post">1</text><text x="200.21739130434784" y="106.25" class="ct-post">1</text><text x="219.13043478260872" y="65" class="ct-post">4</text><text x="238.0434782608696" y="65" class="ct-post">4</text><text x="275.8695652173913" y="106.25" class="ct-post">1</text><text x="313.69565217391306" y="10" class="ct-post">8</text><text x="332.60869565217394" y="10" class="ct-post">8</text><text x="351.5217391304348" y="65" class="ct-post">4</text><text x="370.4347826086957" y="65" class="ct-post">4</text><text x="408.26086956521743" y="92.5" class="ct-post">2</text><text x="446.0869565217392" y="78.75" class="ct-post">3</text><text x="465.00000000000006" y="106.25" class="ct-post">1</text></g>
+                                    <text x="30" y="106.25" class="ct-post">1</text><text x="200.21739130434784" y="106.25" class="ct-post">1</text><text x="219.13043478260872" y="65" class="ct-post">4</text><text x="238.0434782608696" y="51.25" class="ct-post">5</text><text x="275.8695652173913" y="106.25" class="ct-post">1</text><text x="313.69565217391306" y="10" class="ct-post">8</text><text x="332.60869565217394" y="10" class="ct-post">8</text><text x="351.5217391304348" y="65" class="ct-post">4</text><text x="370.4347826086957" y="65" class="ct-post">4</text><text x="408.26086956521743" y="92.5" class="ct-post">2</text><text x="446.0869565217392" y="78.75" class="ct-post">3</text><text x="465.00000000000006" y="106.25" class="ct-post">1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -684,16 +676,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,20.5C39.5,48,49,93.833,58.5,103C68,112.167,77.5,119.5,87,119.5C96.5,119.5,106,97.238,115.5,92C125,86.762,134.5,81,144,81C153.5,81,163,101.625,172.5,108.5C182,115.375,191.5,119.5,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,20.5C39.5,48,49,93.833,58.5,103C68,112.167,77.5,119.5,87,119.5C96.5,119.5,106,97.238,115.5,92C125,86.762,134.5,81,144,81C153.5,81,163,101.625,172.5,108.5C182,115.375,191.5,119.5,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,20.5C39.5,48,49,93.833,58.5,103C68,112.167,77.5,119.5,87,119.5C96.5,119.5,106,97.238,115.5,92C125,86.762,134.5,81,144,81C153.5,81,163,95.667,172.5,103C182,110.333,191.5,117.667,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,20.5C39.5,48,49,93.833,58.5,103C68,112.167,77.5,119.5,87,119.5C96.5,119.5,106,97.238,115.5,92C125,86.762,134.5,81,144,81C153.5,81,163,95.667,172.5,103C182,110.333,191.5,117.667,201,125" class="ct-line"/>
                                             <line x1="30" y1="20.5" x2="30.01" y2="20.5" class="ct-point" ct:value="19"/>
                                             <line x1="58.5" y1="103" x2="58.51" y2="103" class="ct-point" ct:value="4"/>
                                             <line x1="87" y1="119.5" x2="87.01" y2="119.5" class="ct-point" ct:value="1"/>
                                             <line x1="115.5" y1="92" x2="115.51" y2="92" class="ct-point" ct:value="6"/>
                                             <line x1="144" y1="81" x2="144.01" y2="81" class="ct-point" ct:value="8"/>
-                                            <line x1="172.5" y1="108.5" x2="172.51" y2="108.5" class="ct-point" ct:value="3"/>
+                                            <line x1="172.5" y1="103" x2="172.51" y2="103" class="ct-point" ct:value="4"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="30" y="15.5" class="ct-post">19</text><text x="58.5" y="98" class="ct-post">4</text><text x="87" y="114.5" class="ct-post">1</text><text x="115.5" y="87" class="ct-post">6</text><text x="144" y="76" class="ct-post">8</text><text x="172.5" y="103.5" class="ct-post">3</text></g>
+                                        <text x="30" y="15.5" class="ct-post">19</text><text x="58.5" y="98" class="ct-post">4</text><text x="87" y="114.5" class="ct-post">1</text><text x="115.5" y="87" class="ct-post">6</text><text x="144" y="76" class="ct-post">8</text><text x="172.5" y="98" class="ct-post">4</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -3820,6 +3812,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#abfebe8</div>
+                                        <div class="message">fixreddit</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Sept 2022, 11:23:49</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">fricker12/IT_TUSOVKAv2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5777d99</div>
                                         <div class="message">fix</div>
                                     </div>
@@ -3888,27 +3901,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Sept 2022, 18:42:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fricker12/IT_TUSOVKAv2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64ac68b</div>
-                                        <div class="message">new view video</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Sept 2022, 17:22:29</div>
                             </section>
                         </div>
                     </section>
@@ -4436,7 +4428,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.1 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.61666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4458,7 +4450,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 326 times</div>
+                                <div class="text">Repositories have been deployed 327 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4751,14 +4743,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2022, 10:38:27 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Sept 2022, 11:35:38 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
