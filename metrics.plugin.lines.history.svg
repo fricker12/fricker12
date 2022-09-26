@@ -890,6 +890,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Outdated vs. Complete: In defense of apps that don’t need updates</div>
+                                <div class="date">26 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">I am a one-man show: Deployment and infrastructure for a 150k/m visits webapp</div>
+                                <div class="date">26 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Zen4's AVX512 Teardown</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
@@ -900,24 +918,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Does Someone Know My Name?</div>
-                                <div class="date">26 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Learning Is Remembering</div>
-                                <div class="date">26 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Turns are better than radians</div>
                                 <div class="date">26 Sept 2022</div>
                             </div>
                         </div>
@@ -3406,7 +3406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Get0457/Mica-VSCode</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4734,14 +4734,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2022, 22:21:05 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 26 Sept 2022, 23:25:07 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
