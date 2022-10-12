@@ -867,7 +867,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tinyphysicsengine: Minimalist 3D C99 single-header physics engine</div>
+                                <div class="title">87% of American teens own an iPhone; 88% expect an iPhone to be their next phone</div>
                                 <div class="date">12 Oct 2022</div>
                             </div>
                         </div>
@@ -876,7 +876,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The FBHHRBNRSSSHK-Algorithm for Multiplication is still not the end</div>
+                                <div class="title">Tinyphysicsengine: Minimalist 3D C99 single-header physics engine</div>
                                 <div class="date">12 Oct 2022</div>
                             </div>
                         </div>
@@ -4770,14 +4770,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2022, 23:28:25 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Oct 2022, 00:23:31 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
