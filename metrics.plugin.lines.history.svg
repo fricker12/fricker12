@@ -834,7 +834,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using a Framework will harm the maintenance of your software</div>
+                                <div class="title">New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart</div>
                                 <div class="date">13 Oct 2022</div>
                             </div>
                         </div>
@@ -861,8 +861,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel plans thousands of job cuts in face of PC slowdown</div>
-                                <div class="date">12 Oct 2022</div>
+                                <div class="title">Using a Framework will harm the maintenance of your software</div>
+                                <div class="date">13 Oct 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4768,7 +4768,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2022, 10:36:08 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Oct 2022, 11:32:46 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
