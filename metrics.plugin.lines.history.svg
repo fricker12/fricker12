@@ -873,6 +873,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Software reverse engineering suite developed by NSA's Research Directorate</div>
+                                <div class="date">16 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Compiler Explorer</div>
                                 <div class="date">16 Oct 2022</div>
                             </div>
@@ -882,7 +891,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tesla fires after hurricane raises alarm for Florida officials</div>
+                                <div class="title">Apple Music and Mercedes-Benz bring immersive Spatial Audio to drivers</div>
                                 <div class="date">16 Oct 2022</div>
                             </div>
                         </div>
@@ -893,15 +902,6 @@
                             <div class="infos">
                                 <div class="title">XCheck at Meta: Why it exists and how it works</div>
                                 <div class="date">16 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Digital Gardening</div>
-                                <div class="date">15 Oct 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4778,14 +4778,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2022, 21:29:11 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 22:27:11 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
