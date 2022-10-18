@@ -910,7 +910,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHub Copi­lot inves­ti­ga­tion</div>
+                                <div class="title">Crazy crypto mining story from 2013</div>
                                 <div class="date">18 Oct 2022</div>
                             </div>
                         </div>
@@ -919,7 +919,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel and the $1.5T chip industry meltdown</div>
+                                <div class="title">Privacy online just got easier with today’s Firefox release</div>
                                 <div class="date">18 Oct 2022</div>
                             </div>
                         </div>
@@ -928,7 +928,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alien Truth</div>
+                                <div class="title">Tell HN: Beware 'Ungrowth' in Your Job</div>
                                 <div class="date">18 Oct 2022</div>
                             </div>
                         </div>
@@ -4780,14 +4780,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2022, 15:53:16 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Oct 2022, 17:01:55 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
