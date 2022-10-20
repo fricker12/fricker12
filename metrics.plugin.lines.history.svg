@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/sklep_bot</span>
+                            <span class="diff-handle">fricker12/DBManager</span>
                         </div>
                     </section>
                     <section>
@@ -204,12 +204,12 @@
                             <span> </span>
                         </div>
                         <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +103</span> <span class="deleted">     -2</span></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-stats"><span class="added">     +0</span> <span class="deleted">     -0</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -323,8 +323,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−20k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L64.125,140.5L89.25,140.5L114.375,140.5L139.5,140.5L164.625,140.5L189.75,140.5L214.875,140.5L240,140.5L265.125,140.5L290.25,140.5L315.375,140.5L340.5,140.5L365.625,140.5L390.75,140.5L415.875,140.5L441,140.5L441,139.95153900898498L415.875,137.94453340450136L390.75,138.77626545680988L365.625,138.88475224624145L340.5,139.09569878124722L315.375,137.69742460635175L290.25,139.71045725469267L265.125,140.3674050351392L240,137.84207365892715L214.875,134.7502001601281L189.75,138.20972333422296L164.625,133.9003869762477L139.5,131.50162352103905L114.375,121.93067787563383L89.25,132.58649141535452L64.125,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L64.125,140.5L89.25,140.5L114.375,140.5L139.5,140.5L164.625,140.5L189.75,140.5L214.875,140.5L240,140.5L265.125,140.5L290.25,140.5L315.375,140.5L340.5,140.5L365.625,140.5L390.75,140.5L415.875,140.5L441,140.5L441,140.90983898229692L415.875,140.82546036829464L390.75,141.10270438573082L365.625,142.07908549061472L340.5,140.93997420158345L315.375,142.03689618361355L290.25,141.02435281558581L265.125,140.56629748243037L240,141.10270438573082L214.875,142.8143848412063L189.75,177.9219153100258L164.625,141.12078551730272L139.5,146.48485455030692L114.375,143.80884707766214L89.25,142.22976158704742L64.125,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L64.125,140.5L89.25,140.5L114.375,140.5L139.5,140.5L164.625,140.5L189.75,140.5L214.875,140.5L240,140.5L265.125,140.5L290.25,140.5L315.375,140.5L340.5,140.5L365.625,140.5L390.75,140.5L415.875,140.5L441,140.5L441,139.95153900898498L415.875,137.94453340450136L390.75,139.3970509741126L365.625,138.88475224624145L340.5,139.09569878124722L315.375,137.69742460635175L290.25,139.71045725469267L265.125,140.3674050351392L240,137.84207365892715L214.875,134.7502001601281L189.75,138.20972333422296L164.625,133.9003869762477L139.5,131.50162352103905L114.375,121.93067787563383L89.25,132.58649141535452L64.125,19.07314740681435L39,110.87105239747353Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L64.125,140.5L89.25,140.5L114.375,140.5L139.5,140.5L164.625,140.5L189.75,140.5L214.875,140.5L240,140.5L265.125,140.5L290.25,140.5L315.375,140.5L340.5,140.5L365.625,140.5L390.75,140.5L415.875,140.5L441,140.5L441,140.90983898229692L415.875,140.82546036829464L390.75,141.09065029801616L365.625,142.07908549061472L340.5,140.93997420158345L315.375,142.03689618361355L290.25,141.02435281558581L265.125,140.56629748243037L240,141.10270438573082L214.875,142.8143848412063L189.75,177.9219153100258L164.625,141.12078551730272L139.5,146.48485455030692L114.375,143.80884707766214L89.25,142.22976158704742L64.125,276L39,141.850057824037Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -901,7 +901,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DaVinci Resolve for iPad</div>
+                                <div class="title">Washington Officials Traded Stocks with Exquisite Timing</div>
                                 <div class="date">20 Oct 2022</div>
                             </div>
                         </div>
@@ -910,7 +910,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Canonical releases Ubuntu 22.10 Kinetic Kudu</div>
+                                <div class="title">DaVinci Resolve for iPad</div>
                                 <div class="date">20 Oct 2022</div>
                             </div>
                         </div>
@@ -928,7 +928,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenBSD 7.2</div>
+                                <div class="title">CT scans of batteries, including the Tesla Model Y lithium ion cell</div>
                                 <div class="date">20 Oct 2022</div>
                             </div>
                         </div>
@@ -4792,14 +4792,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2022, 20:44:38 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Oct 2022, 21:42:32 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
