@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/sklep_bot</span>
+                            <span class="diff-handle">fricker12/DBManager</span>
                         </div>
                     </section>
                     <section>
@@ -204,12 +204,12 @@
                             <span> </span>
                         </div>
                         <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +103</span> <span class="deleted">     -2</span></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-box "></div>
+                            <div class="diff-stats"><span class="added">     +0</span> <span class="deleted">     -0</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -219,41 +219,9 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(83.36904761904762,0)">
+                            <g class="tick" opacity="1" transform="translate(240.5,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Jul 31</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(128.03571428571428,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Aug 07</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(172.70238095238096,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Aug 14</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(217.36904761904762,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Aug 21</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(262.0357142857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Aug 28</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(306.70238095238096,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Sep 04</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(351.3690476190476,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Sep 11</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(396.0357142857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Sep 18</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(440.70238095238096,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">Sep 25</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">03 AM</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
@@ -295,8 +263,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−2.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L441,140.5L441,133.99043843283582L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,140.62639925373136L39,140.62639925373136Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M240,140.5L240,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M240,140.5L240,140.62639925373136Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -888,6 +856,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Texas solar and wind resources saved consumers nearly $28B over 12 years</div>
+                                <div class="date">29 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">MGL – OpenGL 4.6 on Metal</div>
                                 <div class="date">29 Oct 2022</div>
                             </div>
@@ -898,15 +875,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Taking Lichess to the next level</div>
-                                <div class="date">29 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Why is D's garbage collection slower than Go's?</div>
                                 <div class="date">29 Oct 2022</div>
                             </div>
                         </div>
@@ -4789,7 +4757,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 27 Oct 2022, 11:32:47
+                            On 27 Oct 2022, 11:38:08
                         </div>
                     </section>
                 </div>
@@ -4799,13 +4767,13 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix
+                            new fix
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">96157385</span>
+                            <span class="code">ce5ff782</span>
                             <span class="code">startbot.py</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -4814,7 +4782,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1440,7 +1440,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        out.write(GetVideoObj.content)<br /></span><span class="token prefix unchanged">·</span><span class="token line">        out.close()<br /></span><span class="token prefix unchanged">·</span><span class="token line">        await bot.send_chat_action(chat_id=message.chat.id, action=types.chat.ChatActions.UPLOAD_VIDEO)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">        await bot.send_video(chat_id=TEST_Chat, video=open('videoTikTok.mp4', 'rb'), caption=f'@{message.from_user.username} ({message.from_user.full_name}) поділився відео від {autor}' + '\n' + f' Назва: {videotitle} {videomusictitle} Аудио {audio}' + hlink('посилання на оригінал', link))<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">        await bot.send_video(chat_id=TEST_Chat, video=open('videoTikTok.mp4', 'rb'), caption=f'@{message.from_user.username} ({message.from_user.full_name}) поділився відео від {autor}' + '\n' + f' Назва: {videotitle} {videomusictitle} ' hlink('посилання на аудио', audio) + '\n' + hlink('посилання на оригінал', link))<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    except:<br /></span><span class="token prefix unchanged">·</span><span class="token line">        print('not find video')<br /></span><span class="token prefix unchanged">·</span><span class="token line">except Exception as TikTotError:</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1440,7 +1440,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        out.write(GetVideoObj.content)<br /></span><span class="token prefix unchanged">·</span><span class="token line">        out.close()<br /></span><span class="token prefix unchanged">·</span><span class="token line">        await bot.send_chat_action(chat_id=message.chat.id, action=types.chat.ChatActions.UPLOAD_VIDEO)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">        await bot.send_video(chat_id=TEST_Chat, video=open('videoTikTok.mp4', 'rb'), caption=f'@{message.from_user.username} ({message.from_user.full_name}) поділився відео від {autor}' + '\n' + f' Назва: {videotitle} {videomusictitle} ' hlink('посилання на аудио', audio) + '\n' + hlink('посилання на оригінал', link))<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">        await bot.send_video(chat_id=TEST_Chat, video=open('videoTikTok.mp4', 'rb'), caption=f'@{message.from_user.username} ({message.from_user.full_name}) поділився відео від {autor}' + '\n' + f' Назва: {videotitle} {videomusictitle} ' + hlink('посилання на аудио', audio) + '\n' + hlink('посилання на оригінал', link))<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    except:<br /></span><span class="token prefix unchanged">·</span><span class="token line">        print('not find video')<br /></span><span class="token prefix unchanged">·</span><span class="token line">except Exception as TikTotError:</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4829,14 +4797,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2022, 16:33:55 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Oct 2022, 17:21:05 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
