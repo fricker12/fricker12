@@ -880,7 +880,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Extremely Linear Git History</div>
+                                <div class="title">November 2022 Progress Report</div>
                                 <div class="date">22 Nov 2022</div>
                             </div>
                         </div>
@@ -889,7 +889,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">D2 is a modern diagram scripting language that turns text to diagrams</div>
+                                <div class="title">Retrofitting null-safety onto Java at Meta</div>
                                 <div class="date">22 Nov 2022</div>
                             </div>
                         </div>
@@ -4801,7 +4801,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 18:29:02 (timezone Europe/Kiev) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 19:20:12 (timezone Europe/Kiev) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
