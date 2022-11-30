@@ -3375,7 +3375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adw0rd/instagrapi</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3434,7 +3434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kittinan/spotify-github-profile</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show your Spotify playing on your Github profile</div>
@@ -3487,7 +3487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KeyKatyu/instagram-pronote-bot</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script which posts the daily canteen menu in a story &amp; sends a message when a teacher is absent or when there is a new note !</div>
@@ -4862,14 +4862,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2022, 08:24:32 (timezone Europe/Kiev) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 30 Nov 2022, 09:17:37 (timezone Europe/Kiev) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
