@@ -724,7 +724,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Cost of Being Poor: Why It Costs So Much to Be Poor in America</div>
+                                <div class="title">3M to end 'forever chemicals' output</div>
                                 <div class="date">21 Dec 2022</div>
                             </div>
                         </div>
@@ -742,8 +742,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An extensive letter from Edsger Dijkstra to my 19 year old self (1989)</div>
-                                <div class="date">20 Dec 2022</div>
+                                <div class="title">Stable Diffusion 2 Depth Guided model: architecture photos from dollhouse</div>
+                                <div class="date">21 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -751,7 +751,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Obsidian Canvas – An infinite space for your ideas</div>
+                                <div class="title">An extensive letter from Edsger Dijkstra to my 19 year old self (1989)</div>
                                 <div class="date">20 Dec 2022</div>
                             </div>
                         </div>
@@ -3254,7 +3254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pavlovich-app/KursToday-API</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Бесплатный API для получения актуальных курсов валют в банках и обменниках Украины.</div>
@@ -4665,14 +4665,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2022, 06:21:30 (timezone Europe/Kiev) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 21 Dec 2022, 07:15:56 (timezone Europe/Kiev) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
