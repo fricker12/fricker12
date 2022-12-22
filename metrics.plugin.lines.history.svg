@@ -724,6 +724,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">ByteDance confirmed it used TikTok to monitor journalists’ physical location</div>
+                                <div class="date">22 Dec 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">UnifiedPush: A decentralized, open-source push notification protocol</div>
                                 <div class="date">22 Dec 2022</div>
                             </div>
@@ -733,7 +742,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)</div>
+                                <div class="title">How Pitfall builds its world (2021)</div>
                                 <div class="date">22 Dec 2022</div>
                             </div>
                         </div>
@@ -742,16 +751,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">“Pitfall” for the Atari describes its whole world in a single byte</div>
-                                <div class="date">22 Dec 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bunny AI</div>
+                                <div class="title">Notice of Recent Security Incident [updated]</div>
                                 <div class="date">22 Dec 2022</div>
                             </div>
                         </div>
@@ -4657,14 +4657,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2022, 22:18:17 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 22 Dec 2022, 23:15:24 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
