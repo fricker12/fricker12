@@ -742,7 +742,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">“News is what somebody does not want you to print – all the rest is advertising”</div>
+                                <div class="title">Evolution of the Ethereum Proof-of-Stake Consensus Protocol</div>
                                 <div class="date">24 Dec 2022</div>
                             </div>
                         </div>
@@ -751,8 +751,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Talking to Strangers</div>
-                                <div class="date">22 Dec 2022</div>
+                                <div class="title">Faithless singer Maxi Jazz dies, aged 65</div>
+                                <div class="date">24 Dec 2022</div>
                             </div>
                         </div>
                     </section>
@@ -4676,7 +4676,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2022, 20:19:31 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 24 Dec 2022, 21:13:02 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
