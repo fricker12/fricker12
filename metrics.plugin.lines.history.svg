@@ -920,7 +920,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FTC Proposes Banning Noncompete Clauses for Workers</div>
+                                <div class="title">Automatic1111 is back on GitHub after removing Embedding Links</div>
                                 <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
@@ -929,7 +929,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">U.S. Moves to Bar Noncompete Agreements in Labor Contracts</div>
+                                <div class="title">The YC Founder Directory</div>
                                 <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
@@ -4485,14 +4485,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 18:28:00 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 19:16:09 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
