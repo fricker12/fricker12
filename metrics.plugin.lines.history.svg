@@ -279,8 +279,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L367.9090909090909,140.5L386.1818181818182,140.5L404.45454545454544,140.5L422.72727272727275,140.5L441,140.5L441,132.30547619047616L422.72727272727275,133.0797619047619L404.45454545454544,115.14214285714287L386.1818181818182,137.8867857142857L367.9090909090909,5L39,71.33047619047619Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L367.9090909090909,140.5L386.1818181818182,140.5L404.45454545454544,140.5L422.72727272727275,140.5L441,140.5L441,151.08190476190475L422.72727272727275,144.43595238095241L404.45454545454544,146.7588095238095L386.1818181818182,141.8227380952381L367.9090909090909,145.0811904761905L39,140.5645238095238Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L203.45454545454544,140.5L367.9090909090909,140.5L386.1818181818182,140.5L404.45454545454544,140.5L422.72727272727275,140.5L441,140.5L441,132.30547619047616L422.72727272727275,133.0797619047619L404.45454545454544,115.14214285714287L386.1818181818182,137.8867857142857L367.9090909090909,5L203.45454545454544,137.17702380952377L39,71.33047619047619Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L203.45454545454544,140.5L367.9090909090909,140.5L386.1818181818182,140.5L404.45454545454544,140.5L422.72727272727275,140.5L441,140.5L441,151.08190476190475L422.72727272727275,144.43595238095241L404.45454545454544,146.7588095238095L386.1818181818182,141.8227380952381L367.9090909090909,145.0811904761905L203.45454545454544,140.5645238095238L39,140.5645238095238Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -870,6 +870,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The beauty of CGI and simple design</div>
+                                <div class="date">7 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Epochalypse</div>
                                 <div class="date">7 Jan 2023</div>
                             </div>
@@ -880,15 +889,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Devirtualizing nike.com's bot protection</div>
-                                <div class="date">7 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The beauty of CGI and simple design</div>
                                 <div class="date">7 Jan 2023</div>
                             </div>
                         </div>
@@ -3020,7 +3020,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damnever/pigar</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4432,14 +4432,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2023, 12:17:02 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 7 Jan 2023, 13:13:15 (timezone Europe/Kiev) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
