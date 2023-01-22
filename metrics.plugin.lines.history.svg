@@ -894,7 +894,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The contagious visual blandness of Netflix</div>
+                                <div class="title">Git-sim: Visually simulate Git operations in your own repos</div>
                                 <div class="date">22 Jan 2023</div>
                             </div>
                         </div>
@@ -903,7 +903,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git-SIM: Visually simulate Git operations in your own repos</div>
+                                <div class="title">Negative-weight single-source shortest paths in near-linear time</div>
                                 <div class="date">22 Jan 2023</div>
                             </div>
                         </div>
@@ -912,7 +912,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pomodoro Timer</div>
+                                <div class="title">“Copycat” layoffs won’t help tech companies or their employees</div>
                                 <div class="date">22 Jan 2023</div>
                             </div>
                         </div>
@@ -921,7 +921,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Negative-Weight Single-Source Shortest Paths in Near-Linear Time</div>
+                                <div class="title">Appalachian Apple hunter who rescued 1k ‘lost’ varieties (2021)</div>
                                 <div class="date">22 Jan 2023</div>
                             </div>
                         </div>
@@ -4549,7 +4549,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e0ebb3d1</span>
+                            <span class="code">f3488d78</span>
                             <span class="code">startbot.py</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -4558,7 +4558,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -497,7 +497,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> t.start()<br /></span><span class="token prefix unchanged">·</span><span class="token line"> sessions.append(run_client(TelegramClient(<br /></span><span class="token prefix unchanged">·</span><span class="token line">     'bot', settings['api_key'], settings['api_hash'], sequential_updates=True)))<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> #sessions.append(ShowAlarm())<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> sessions.append(ShowAlarm())<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> sessions.append(ShowGlobalAlarm())<br /></span><span class="token prefix unchanged">·</span><span class="token line"> # sessions.append(WatchIListening())<br /></span><span class="token prefix unchanged">·</span><span class="token line"># clean = Thread(target=CleanChat)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -736,7 +736,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">await bot.send_chat_action(chat_id=GROUP_ID, action=types.chat.ChatActions.TYPING)<br /></span><span class="token prefix unchanged">·</span><span class="token line">occupation = alarm.Get_Status_Territory(1)<br /></span><span class="token prefix unchanged">·</span><span class="token line">opys = f"Перелік населених пунктів"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">await bot.send_message(callback.message.chat.id, f'&lt;pre&gt;{opys}\n {occupation}&lt;/pre&gt;')<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">await bot.send_message(callback.message.chat.id, f'&lt;pre&gt;{opys}\n{occupation}&lt;/pre&gt;')<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">@ dp.callback_query_handler(text='blockade')<br /></span><span class="token prefix unchanged">·</span><span class="token line">async def blockade(callback: types.CallbackQuery):</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4573,14 +4573,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2023, 20:20:08 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Jan 2023, 21:13:25 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
