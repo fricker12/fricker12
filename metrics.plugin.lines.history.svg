@@ -267,8 +267,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L317.3076923076923,140.5L332.7692307692308,140.5L348.2307692307692,140.5L363.6923076923077,140.5L379.15384615384613,140.5L410.0769230769231,140.5L425.53846153846155,140.5L441,140.5L441,140.13350077279756L425.53846153846155,5L410.0769230769231,136.67793663060277L379.15384615384613,129.19088098918084L363.6923076923077,134.47894126738794L348.2307692307692,119.92368624420403L332.7692307692308,138.3795401854714L317.3076923076923,30.550231839258114L39,84.37326120556412Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L317.3076923076923,140.5L332.7692307692308,140.5L348.2307692307692,140.5L363.6923076923077,140.5L379.15384615384613,140.5L410.0769230769231,140.5L425.53846153846155,140.5L441,140.5L441,140.84032071097374L425.53846153846155,144.50531298299848L410.0769230769231,142.09688948995364L379.15384615384613,153.45836553323025L363.6923076923077,143.69377897990728L348.2307692307692,145.57863214837712L332.7692307692308,141.57331916537868L317.3076923076923,144.2173493044822L39,140.5523570324575Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L178.15384615384616,140.5L317.3076923076923,140.5L332.7692307692308,140.5L348.2307692307692,140.5L363.6923076923077,140.5L379.15384615384613,140.5L410.0769230769231,140.5L425.53846153846155,140.5L441,140.5L441,140.13350077279756L425.53846153846155,5L410.0769230769231,136.67793663060277L379.15384615384613,129.19088098918084L363.6923076923077,134.47894126738794L348.2307692307692,119.92368624420403L332.7692307692308,138.3795401854714L317.3076923076923,30.550231839258114L178.15384615384616,137.80361282843896L39,84.37326120556412Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L178.15384615384616,140.5L317.3076923076923,140.5L332.7692307692308,140.5L348.2307692307692,140.5L363.6923076923077,140.5L379.15384615384613,140.5L410.0769230769231,140.5L425.53846153846155,140.5L441,140.5L441,140.84032071097374L425.53846153846155,144.50531298299848L410.0769230769231,142.09688948995364L379.15384615384613,153.45836553323025L363.6923076923077,143.69377897990728L348.2307692307692,145.57863214837712L332.7692307692308,141.57331916537868L317.3076923076923,144.2173493044822L178.15384615384616,140.5523570324575L39,140.5523570324575Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -850,7 +850,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I've built a C# IDE, Runtime, and AppStore inside Excel</div>
+                                <div class="title">Coinbase’s chief product officer will leave with a $105M payday</div>
                                 <div class="date">25 Jan 2023</div>
                             </div>
                         </div>
@@ -859,7 +859,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: A simple world flags game, my first web dev project as a beginner</div>
+                                <div class="title">Jetnet Acquires ADS-B Exchange, a community-fed ADSB aggregator</div>
                                 <div class="date">25 Jan 2023</div>
                             </div>
                         </div>
@@ -877,7 +877,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mjolnir</div>
+                                <div class="title">Show HN: Automatisch – Open source workflow automation, an alternative to Zapier</div>
                                 <div class="date">25 Jan 2023</div>
                             </div>
                         </div>
@@ -4514,14 +4514,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 18:23:56 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 19:15:30 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
