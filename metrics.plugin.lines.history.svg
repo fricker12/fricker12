@@ -868,7 +868,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Galaga no-fire-cheat mystery (2012)</div>
+                                <div class="title">Omega-3s: Are “Brain-Boosting” Effects Scientifically Backed?</div>
                                 <div class="date">27 Jan 2023</div>
                             </div>
                         </div>
@@ -877,7 +877,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MusicLM: Generating music from text</div>
+                                <div class="title">The Galaga no-fire-cheat mystery (2012)</div>
                                 <div class="date">27 Jan 2023</div>
                             </div>
                         </div>
@@ -2968,7 +2968,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iperov/DeepFaceLab</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepFaceLab is the leading software for creating deepfakes.</div>
@@ -3021,7 +3021,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepfakes/faceswap</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deepfakes Software For All</div>
@@ -3127,7 +3127,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>damnever/pigar</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 28 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4536,14 +4536,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2023, 12:19:09 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Jan 2023, 13:14:54 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
