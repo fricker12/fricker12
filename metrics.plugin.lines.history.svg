@@ -877,7 +877,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Git Heat Map – a tool for visualising git repo activity for each file</div>
+                                <div class="title">Higher Rates Will Lead to the Next Generation of Great Tech Startups</div>
                                 <div class="date">29 Jan 2023</div>
                             </div>
                         </div>
@@ -4543,14 +4543,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2023, 09:14:52 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 29 Jan 2023, 10:20:42 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
