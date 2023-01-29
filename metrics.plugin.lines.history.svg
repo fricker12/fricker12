@@ -859,16 +859,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Astronomers discovered 1M new galaxies in just 300 hours</div>
-                                <div class="date">29 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bog – small, strongly typed, embeddable language</div>
+                                <div class="title">Indoor Air Quality and Learning: Evidence from Large Field Study in Schools [pdf]</div>
                                 <div class="date">29 Jan 2023</div>
                             </div>
                         </div>
@@ -878,6 +869,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">80/20 Aluminum T-slot Building Systems – Build your Idea</div>
+                                <div class="date">29 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Bog – small, strongly typed, embeddable language</div>
                                 <div class="date">29 Jan 2023</div>
                             </div>
                         </div>
@@ -4550,7 +4550,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2023, 18:22:28 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 29 Jan 2023, 19:14:47 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
