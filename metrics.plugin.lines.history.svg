@@ -868,7 +868,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open Assistant – project meant to give everyone access to a great chat based LLM</div>
+                                <div class="title">SICP: the end of an era (2021) [video]</div>
                                 <div class="date">4 Feb 2023</div>
                             </div>
                         </div>
@@ -877,8 +877,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SICP: the end of an era (2021) [video]</div>
-                                <div class="date">4 Feb 2023</div>
+                                <div class="title">Fedora now has frame pointers</div>
+                                <div class="date">2 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4461,14 +4461,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2023, 04:50:45 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Feb 2023, 05:22:10 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
