@@ -850,15 +850,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI Generated Seinfeld banned on Twitch for transphobic jokes</div>
-                                <div class="date">6 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Why the conventional wisdom on how to grow muscles is wrong</div>
                                 <div class="date">6 Feb 2023</div>
                             </div>
@@ -868,7 +859,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: DEI initiatives undermine the self esteem of PoC within a company</div>
+                                <div class="title">How much can you get out of a $4 VPS?</div>
                                 <div class="date">6 Feb 2023</div>
                             </div>
                         </div>
@@ -877,7 +868,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Four Horsemen of the Tech Recession</div>
+                                <div class="title">Email marketing regulations around the world</div>
+                                <div class="date">6 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">MythTV 33 Released – open-source all-in-one DVR</div>
                                 <div class="date">6 Feb 2023</div>
                             </div>
                         </div>
@@ -4434,14 +4434,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2023, 18:24:07 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Feb 2023, 19:15:22 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
