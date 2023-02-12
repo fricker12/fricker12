@@ -854,7 +854,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHub is aggressively caching raw.github, breaking many use cases</div>
+                                <div class="title">Let's write a setjmp</div>
                                 <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
@@ -863,7 +863,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Let's write a setjmp</div>
+                                <div class="title">Correlation Between the Use of Swearwords and Code Quality in Open Source Code? [pdf]</div>
                                 <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
@@ -881,8 +881,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jupyterlab Desktop</div>
-                                <div class="date">10 Feb 2023</div>
+                                <div class="title">GitHub is aggressively caching raw.github, breaking many use cases</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -3055,7 +3055,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iperov/DeepFaceLab</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepFaceLab is the leading software for creating deepfakes.</div>
@@ -3108,7 +3108,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepfakes/faceswap</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deepfakes Software For All</div>
@@ -4465,7 +4465,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 12:17:54 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 13:14:09 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
