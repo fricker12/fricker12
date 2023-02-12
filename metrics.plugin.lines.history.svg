@@ -863,7 +863,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Let's write a setjmp</div>
+                                <div class="title">Let&amp;#x27;s write a setjmp</div>
                                 <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
@@ -881,8 +881,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jupyterlab Desktop</div>
-                                <div class="date">10 Feb 2023</div>
+                                <div class="title">The FBI’s most controversial surveillance tool is under threat</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4458,14 +4458,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2023, 18:22:48 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 19:14:51 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
