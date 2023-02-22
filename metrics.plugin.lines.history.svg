@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DBManager</span>
+                            <span class="diff-handle">fricker12/sklep_bot</span>
                         </div>
                     </section>
                     <section>
@@ -209,7 +209,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">   +342</span> <span class="deleted">    -62</span></div>
+                            <div class="diff-stats"><span class="added">   +103</span> <span class="deleted">     -2</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -845,15 +845,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Lost Hiker’s SOS Signal Sparked a Wildfire. Now He Must Pay $300k</div>
-                                <div class="date">22 Feb 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Dark energy from supermassive black holes? Physicists spar over radical idea</div>
                                 <div class="date">22 Feb 2023</div>
                             </div>
@@ -863,7 +854,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD CEO: The Next Challenge Is Energy Efficiency</div>
+                                <div class="title">Amazon employees express dismay, anger about sudden return-to-office policy</div>
                                 <div class="date">22 Feb 2023</div>
                             </div>
                         </div>
@@ -872,7 +863,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Experts discover how zebra stripes work to thwart horsefly attacks</div>
+                                <div class="title">Seattle becomes first U.S. city to ban caste discrimination</div>
+                                <div class="date">22 Feb 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Apple Orders Entire Supply of TSMC&amp;#x27;s 3nm Chips for iPhone 15 Pro and M3 Macs</div>
                                 <div class="date">22 Feb 2023</div>
                             </div>
                         </div>
@@ -4081,7 +4081,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3579739904175057 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4428473648186273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4438,14 +4438,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2023, 14:36:03 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Feb 2023, 15:26:39 (timezone Europe/Kiev) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
