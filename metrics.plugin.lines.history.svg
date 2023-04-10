@@ -750,7 +750,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RePalm</div>
+                                <div class="title">Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%</div>
                                 <div class="date">10 Apr 2023</div>
                             </div>
                         </div>
@@ -759,7 +759,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%</div>
+                                <div class="title">Teaching ChatGPT to Speak My Son’s Invented Language</div>
                                 <div class="date">10 Apr 2023</div>
                             </div>
                         </div>
@@ -3018,7 +3018,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        474
+                                        475
                                     </div>
                                 </div>
                             </section>
@@ -4289,7 +4289,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Apr 2023, 00:22:50
+                            On 7 Apr 2023, 23:39:41
                         </div>
                     </section>
                 </div>
@@ -4299,14 +4299,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            prod
+                            fix
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e0553f49</span>
-                            <span class="code">requirements.txt</span>
+                            <span class="code">486b83b6</span>
+                            <span class="code">startbot.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4317,7 +4317,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -35,7 +35,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#wget==3.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">#instascrape==2.1.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">#revChatGPT==2.0.0<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">pytgcalls==3.0.0.dev24<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">#pytgcalls==3.0.0.dev24<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#pyrogram==2.0.26<br /></span><span class="token prefix unchanged">·</span><span class="token line">#gallery-dl==1.24.4<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1191,7 +1191,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">await ConvertAudioToCall()<br /></span><span class="token prefix unchanged">·</span><span class="token line">IGBOTPath = Path('IGBOT') <br /></span><span class="token prefix unchanged">·</span><span class="token line">os.remove(f'{IGBOTPath}/preview_url.mp3')         <br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">async with TelegramClient('pytgcalls', settings['api_key'], settings['api_hash']) as app:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">async with TelegramClient('spotify', settings['api_key'], settings['api_hash']) as app:<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    print('hello')<br /></span><span class="token prefix unchanged">·</span><span class="token line">    group_call_factory = GroupCallFactory(app, GroupCallFactory.MTPROTO_CLIENT_TYPE.TELETHON)<br /></span><span class="token prefix unchanged">·</span><span class="token line">    group_call = group_call_factory.get_file_group_call(f'{IGBOTPath}/input.raw')</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4332,14 +4332,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2023, 21:19:56 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 22:13:02 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
