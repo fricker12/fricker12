@@ -285,8 +285,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L234.568,140.5L245.432,140.5L256.297,140.5L267.162,140.5L278.027,140.5L299.757,140.5L310.622,140.5L321.486,140.5L332.351,140.5L343.216,140.5L354.081,140.5L364.946,140.5L375.811,140.5L386.676,140.5L397.541,140.5L408.405,140.5L419.27,140.5L430.135,140.5L441,140.5L441,140.029L430.135,126.023L419.27,113.301L408.405,136.94L397.541,136.809L386.676,120.473L375.811,130.421L364.946,127.227L354.081,138.484L343.216,133.17L332.351,134.139L321.486,126.992L310.622,5L299.757,136.678L278.027,129.191L267.162,134.479L256.297,119.924L245.432,138.38L234.568,30.55L39,84.373Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L234.568,140.5L245.432,140.5L256.297,140.5L267.162,140.5L278.027,140.5L299.757,140.5L310.622,140.5L321.486,140.5L332.351,140.5L343.216,140.5L354.081,140.5L364.946,140.5L375.811,140.5L386.676,140.5L397.541,140.5L408.405,140.5L419.27,140.5L430.135,140.5L441,140.5L441,140.736L430.135,143.694L419.27,169.453L408.405,142.725L397.541,143.17L386.676,151.05L375.811,146.888L364.946,145.369L354.081,140.893L343.216,144.584L332.351,143.851L321.486,144.427L310.622,144.505L299.757,142.097L278.027,153.458L267.162,143.694L256.297,145.579L245.432,141.573L234.568,144.217L39,140.552Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L136.784,140.5L234.568,140.5L245.432,140.5L256.297,140.5L267.162,140.5L278.027,140.5L299.757,140.5L310.622,140.5L321.486,140.5L332.351,140.5L343.216,140.5L354.081,140.5L364.946,140.5L375.811,140.5L386.676,140.5L397.541,140.5L408.405,140.5L419.27,140.5L430.135,140.5L441,140.5L441,140.029L430.135,126.023L419.27,113.301L408.405,136.94L397.541,136.809L386.676,120.473L375.811,130.421L364.946,127.227L354.081,138.484L343.216,133.17L332.351,134.139L321.486,126.992L310.622,5L299.757,136.678L278.027,129.191L267.162,134.479L256.297,119.924L245.432,138.38L234.568,30.55L136.784,137.804L39,84.373Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L136.784,140.5L234.568,140.5L245.432,140.5L256.297,140.5L267.162,140.5L278.027,140.5L299.757,140.5L310.622,140.5L321.486,140.5L332.351,140.5L343.216,140.5L354.081,140.5L364.946,140.5L375.811,140.5L386.676,140.5L397.541,140.5L408.405,140.5L419.27,140.5L430.135,140.5L441,140.5L441,140.736L430.135,143.694L419.27,169.453L408.405,142.725L397.541,143.17L386.676,151.05L375.811,146.888L364.946,145.369L354.081,140.893L343.216,144.584L332.351,143.851L321.486,144.427L310.622,144.505L299.757,142.097L278.027,153.458L267.162,143.694L256.297,145.579L245.432,141.573L234.568,144.217L136.784,140.552L39,140.552Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -732,15 +732,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deep in Florida, an ecological disaster has been reversed, wildlife is thriving</div>
-                                <div class="date">10 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT</div>
                                 <div class="date">9 Apr 2023</div>
                             </div>
@@ -750,7 +741,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stanford benchmarks and compares numerous Large Language Models</div>
+                                <div class="title">Using RP2040 PIO to drive a poorly-designed displa</div>
                                 <div class="date">10 Apr 2023</div>
                             </div>
                         </div>
@@ -759,8 +750,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Baby GPT</div>
-                                <div class="date">9 Apr 2023</div>
+                                <div class="title">Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of</div>
+                                <div class="date">10 Apr 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Dancing Plague of 1518</div>
+                                <div class="date">10 Apr 2023</div>
                             </div>
                         </div>
                     </section>
@@ -2931,7 +2931,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adarshajoisa/weatherbot</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A chat bot to query about weather from google weather api</div>
@@ -4289,7 +4289,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 Apr 2023, 23:39:41
+                            On 7 Apr 2023, 23:11:51
                         </div>
                     </section>
                 </div>
@@ -4299,14 +4299,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix
+                            test
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">486b83b6</span>
-                            <span class="code">startbot.py</span>
+                            <span class="code">bcdc1ee9</span>
+                            <span class="code">requirements.txt</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4317,7 +4317,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1191,7 +1191,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">await ConvertAudioToCall()<br /></span><span class="token prefix unchanged">·</span><span class="token line">IGBOTPath = Path('IGBOT') <br /></span><span class="token prefix unchanged">·</span><span class="token line">os.remove(f'{IGBOTPath}/preview_url.mp3')         <br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">async with TelegramClient('pytgcalls', settings['api_key'], settings['api_hash']) as app:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">async with TelegramClient('spotify', settings['api_key'], settings['api_hash']) as app:<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    print('hello')<br /></span><span class="token prefix unchanged">·</span><span class="token line">    group_call_factory = GroupCallFactory(app, GroupCallFactory.MTPROTO_CLIENT_TYPE.TELETHON)<br /></span><span class="token prefix unchanged">·</span><span class="token line">    group_call = group_call_factory.get_file_group_call(f'{IGBOTPath}/input.raw')</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -35,7 +35,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#wget==3.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">#instascrape==2.1.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">#revChatGPT==2.0.0<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">#pytgcalls==3.0.0.dev24<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">pytgcalls==3.0.0.dev24<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#pyrogram==2.0.26<br /></span><span class="token prefix unchanged">·</span><span class="token line">#gallery-dl==1.24.4<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4332,14 +4332,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2023, 07:19:55 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 08:15:31 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
