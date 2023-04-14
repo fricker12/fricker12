@@ -766,8 +766,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What is NMAP and how to use it? (2020)</div>
-                                <div class="date">13 Apr 2023</div>
+                                <div class="title">dbdev - The Database Package Manager for PostgreSQL Trusted Language Extensions</div>
+                                <div class="date">14 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -775,7 +775,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Beyond Automatic Differentiation</div>
+                                <div class="title">Spanish climber emerges after 500 days in cave</div>
                                 <div class="date">14 Apr 2023</div>
                             </div>
                         </div>
@@ -4372,14 +4372,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2023, 19:21:20 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 20:12:55 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
