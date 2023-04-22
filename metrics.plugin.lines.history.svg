@@ -741,7 +741,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">More than 19,000 undersea volcanoes discovered</div>
+                                <div class="title">Coinbase secures Bermuda licence</div>
                                 <div class="date">22 Apr 2023</div>
                             </div>
                         </div>
@@ -759,7 +759,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Automatic Prompt Optimizer for LLMs</div>
+                                <div class="title">More than 19k undersea volcanoes discovered</div>
                                 <div class="date">22 Apr 2023</div>
                             </div>
                         </div>
@@ -4365,14 +4365,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 07:19:14 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Apr 2023, 08:14:53 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
