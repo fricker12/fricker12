@@ -732,15 +732,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bilingualism affords no general cognitive advantages: Study</div>
-                                <div class="date">24 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Some mistakes I made as a new manager</div>
                                 <div class="date">24 Apr 2023</div>
                             </div>
@@ -750,8 +741,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moths are more efficient pollinators than bees: new research</div>
-                                <div class="date">22 Apr 2023</div>
+                                <div class="title">Inferno-OS: distributed operating system where everything is a file, with 9P</div>
+                                <div class="date">24 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -759,8 +750,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lego breaks ground on first US manufacturing facility</div>
-                                <div class="date">23 Apr 2023</div>
+                                <div class="title">Bilingualism affords no general cognitive advantages: Study</div>
+                                <div class="date">24 Apr 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">West Coast Trail – The 75km&amp;#x2F;48 mile hike in Vancouver Island</div>
+                                <div class="date">24 Apr 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4307,14 +4307,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2023, 05:34:24 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Apr 2023, 06:17:18 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
