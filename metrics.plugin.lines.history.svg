@@ -759,7 +759,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fide World Chess Championship Decided in Rapid Tiebreaks</div>
+                                <div class="title">Show HN: Frogmouth – A Markdown browser for your terminal</div>
                                 <div class="date">30 Apr 2023</div>
                             </div>
                         </div>
@@ -4365,14 +4365,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2023, 19:19:38 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Apr 2023, 20:13:19 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
