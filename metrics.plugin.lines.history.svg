@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4944" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4862" class="large">
     <defs>
         <style/>
     </defs>
@@ -761,8 +761,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Protocol Wars</div>
-                                <div class="date">10 May 2023</div>
+                                <div class="title">Wind is main source of UK electricity for first time</div>
+                                <div class="date">11 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -3017,7 +3017,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        34.6k
+                                        34.7k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4017,7 +4017,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.25462012320330984 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4260,7 +4260,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.95m out of 115m users</span>
+                                    <span class="gh">ranked 3.15m out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -4343,7 +4343,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 400m repositories</span>
+                                    <span class="gh">ranked 4.62m out of 400m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4432,10 +4432,10 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c41a8a9b</span>
-                            <span class="code">.cache-fricker12</span>
+                            <span class="code">freeGPT/quora/graphql/HandleFragment.graphql</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++8</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -4443,7 +4443,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"access_token": "BQCFDknG2pke-GAD9M0weP6JxEwgtVKqQshzU38pn_ngV4Zzw9TbyT5m8OUB9r5mGBG0VfRJa-Dg3ZAW9pjDLBvpywOPz7hS-mtkNbvocaZY3IOjRbX7jcssxY7K0FSf3qSMUCK-oe_93r1QU6I9QPs4sy52iNqGqnqzTrK9VuDyf-EYJq5Zg22OF61_KzvLGTyAuzZ3XQfu2Wny6F2BEwgkXofZsIZs2uUwcHUbmTryBp11d-_xWWhRJvqVAa3Ac7Izk-Qlgb0_WrkChhJzq71_orVH9Ii4gTfQMu3HuuOQ00zJrNLlvPxSZkK58r7H9ApeuETlHR7gmFZIRpGhow", "token_type": "Bearer", "expires_in": 3600, "scope": "user-read-currently-playing", "expires_at": 1683382510, "refresh_token": "AQC355hlPg75zgkeJSGow6-B5WwtyjJQmal5f4JB4i3csXCsfF4lhRBr15v-BVVsJ7dW612Dy5akKJ1ax2vDzIx0OZcxc1_1WDzv8Hf9x19yfrzMwm59Dka6zOD3a9yB3KM"}<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"access_token": "BQCV9Usa1yh6G_KgWyCz6u-Kr-ZHqOmti3DcIEMaLCpr0ZiwuaJe6NwhJTmmPzFrLTPo-wzthp7yn5LcwuRxVOEvAlV7PCaNd7j_SlGdNofIjYUOOGLEcgtP4EJxCMbbfFpypYOqqglaLnCsyUvDwIdYJCArmha4D4AU5NuHAH90vDs5ArpyU8vUoEwx6zQTG-RpfixfDx8uzKQ6z2eP_pKTvFI37azoxMynoOZSOOfY3e9EsjATtSYgPQPD5Lh1pa39gf-lCsUB8LywLkwUZEsvW1cvqOUP_9Re_Scgc-uX9dhTUqNNOtXgwSP4Kfk7H4JyLiT9jexQdwZszF9jUw", "token_type": "Bearer", "expires_in": 3600, "scope": "user-read-currently-playing", "expires_at": 1683577424, "refresh_token": "AQC355hlPg75zgkeJSGow6-B5WwtyjJQmal5f4JB4i3csXCsfF4lhRBr15v-BVVsJ7dW612Dy5akKJ1ax2vDzIx0OZcxc1_1WDzv8Hf9x19yfrzMwm59Dka6zOD3a9yB3KM"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">fragment HandleFragment on Viewer {<br /></span><span class="token prefix inserted">+</span><span class="token line">id<br /></span><span class="token prefix inserted">+</span><span class="token line">poeUser {<br /></span><span class="token prefix inserted">+</span><span class="token line">    id<br /></span><span class="token prefix inserted">+</span><span class="token line">    uid<br /></span><span class="token prefix inserted">+</span><span class="token line">    handle<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4458,14 +4458,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2023, 15:31:51 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 May 2023, 16:19:41 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
