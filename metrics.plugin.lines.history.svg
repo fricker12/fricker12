@@ -743,7 +743,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Retro Computer Museum – Leicester, UK</div>
+                                <div class="title">Retro Computer Museum</div>
                                 <div class="date">17 May 2023</div>
                             </div>
                         </div>
@@ -752,7 +752,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Summarize Any Article as a Dialog Between Two People with Bing Chat</div>
+                                <div class="title">The Regenerating Power of Big Basin’s Redwoods</div>
                                 <div class="date">17 May 2023</div>
                             </div>
                         </div>
@@ -761,7 +761,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BratGPT: The evil older sibling of ChatGPT</div>
+                                <div class="title">The IRS is building its own online tax filing system</div>
                                 <div class="date">17 May 2023</div>
                             </div>
                         </div>
@@ -770,7 +770,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rekt.network</div>
+                                <div class="title">The Staff Engineer&amp;#x27;s Path – Book Review</div>
                                 <div class="date">17 May 2023</div>
                             </div>
                         </div>
@@ -3093,7 +3093,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Daniel-Harari/Twitter-API</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">twitters unofficial API for scraping tweets and comments</div>
@@ -4325,7 +4325,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.76m out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4410,7 +4410,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2023, 17:14:27 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 May 2023, 18:16:28 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
