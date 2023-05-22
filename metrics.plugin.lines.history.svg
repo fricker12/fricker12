@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/PasswordGenerator</span>
+                            <span class="diff-handle">fricker12/CSVtoICSconverter</span>
                         </div>
                     </section>
                     <section>
@@ -213,8 +213,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +452</span>
-                                <span class="deleted">   -229</span>
+                                <span class="added">   +498</span>
+                                <span class="deleted">   -237</span>
                             </div>
                             <span> </span>
                         </div>
@@ -281,8 +281,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L145.412,140.5L157.235,140.5L169.059,140.5L180.882,140.5L192.706,140.5L216.353,140.5L228.176,140.5L240,140.5L251.824,140.5L263.647,140.5L275.471,140.5L287.294,140.5L299.118,140.5L310.941,140.5L322.765,140.5L334.588,140.5L346.412,140.5L358.235,140.5L370.059,140.5L381.882,140.5L393.706,140.5L405.529,140.5L417.353,140.5L429.176,140.5L441,140.5L441,138.484L429.176,130.264L417.353,72.384L405.529,96.73L393.706,139.531L381.882,135.317L370.059,139.165L358.235,126.023L346.412,113.301L334.588,136.94L322.765,136.809L310.941,120.473L299.118,130.421L287.294,127.227L275.471,138.484L263.647,133.17L251.824,134.139L240,126.992L228.176,5L216.353,136.678L192.706,129.191L180.882,134.479L169.059,119.924L157.235,138.38L145.412,30.55L39,137.804Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L145.412,140.5L157.235,140.5L169.059,140.5L180.882,140.5L192.706,140.5L216.353,140.5L228.176,140.5L240,140.5L251.824,140.5L263.647,140.5L275.471,140.5L287.294,140.5L299.118,140.5L310.941,140.5L322.765,140.5L334.588,140.5L346.412,140.5L358.235,140.5L370.059,140.5L381.882,140.5L393.706,140.5L405.529,140.5L417.353,140.5L429.176,140.5L441,140.5L441,141.364L429.176,145.814L417.353,141.338L405.529,170.867L393.706,140.657L381.882,142.804L370.059,141.364L358.235,143.694L346.412,169.453L334.588,142.725L322.765,143.17L310.941,151.05L299.118,146.888L287.294,145.369L275.471,140.893L263.647,144.584L251.824,143.851L240,144.427L228.176,144.505L216.353,142.097L192.706,153.458L180.882,143.694L169.059,145.579L157.235,141.573L145.412,144.217L39,140.552Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L145.412,140.5L157.235,140.5L169.059,140.5L180.882,140.5L192.706,140.5L216.353,140.5L228.176,140.5L240,140.5L251.824,140.5L263.647,140.5L275.471,140.5L287.294,140.5L299.118,140.5L310.941,140.5L322.765,140.5L334.588,140.5L346.412,140.5L358.235,140.5L370.059,140.5L381.882,140.5L393.706,140.5L405.529,140.5L417.353,140.5L429.176,140.5L441,140.5L441,138.484L429.176,130.264L417.353,72.384L405.529,83.693L393.706,139.531L381.882,135.317L370.059,139.165L358.235,126.023L346.412,113.301L334.588,136.94L322.765,136.809L310.941,120.473L299.118,130.421L287.294,127.227L275.471,138.484L263.647,133.17L251.824,134.139L240,126.992L228.176,5L216.353,136.678L192.706,129.191L180.882,134.479L169.059,119.924L157.235,138.38L145.412,30.55L39,137.804Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L145.412,140.5L157.235,140.5L169.059,140.5L180.882,140.5L192.706,140.5L216.353,140.5L228.176,140.5L240,140.5L251.824,140.5L263.647,140.5L275.471,140.5L287.294,140.5L299.118,140.5L310.941,140.5L322.765,140.5L334.588,140.5L346.412,140.5L358.235,140.5L370.059,140.5L381.882,140.5L393.706,140.5L405.529,140.5L417.353,140.5L429.176,140.5L441,140.5L441,141.364L429.176,145.814L417.353,141.338L405.529,177.071L393.706,140.657L381.882,142.804L370.059,141.364L358.235,143.694L346.412,169.453L334.588,142.725L322.765,143.17L310.941,151.05L299.118,146.888L287.294,145.369L275.471,140.893L263.647,144.584L251.824,143.851L240,144.427L228.176,144.505L216.353,142.097L192.706,153.458L180.882,143.694L169.059,145.579L157.235,141.573L145.412,144.217L39,140.552Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -735,15 +735,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta preps new social app</div>
-                                <div class="date">22 May 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Same Stop: Life after 26 years as a programmer for Apple</div>
                                 <div class="date">22 May 2023</div>
                             </div>
@@ -763,6 +754,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Beej&amp;#x27;s Guide to Network Programming</div>
+                                <div class="date">22 May 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Modding Age of Empires II with a Sprite-Diffuser</div>
                                 <div class="date">22 May 2023</div>
                             </div>
                         </div>
@@ -3784,7 +3784,7 @@ refactor "if template" to dict</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            63182 reputation points
+                            63192 reputation points
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4328,7 +4328,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.76m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.60m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4443,14 +4443,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 11:20:35 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 12:16:31 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
