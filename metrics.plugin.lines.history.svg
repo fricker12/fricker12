@@ -184,13 +184,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/ParsingAccessLog</span>
+                            <span class="diff-handle">fricker12/Air_Alarm</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/Air_Alarm</span>
+                            <span class="diff-handle">fricker12/CSVtoICSconverter</span>
                         </div>
                     </section>
                     <section>
@@ -201,8 +201,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +100k</span>
-                                <span class="deleted">   -162</span>
+                                <span class="added"> +2.14k</span>
+                                <span class="deleted">     -2</span>
                             </div>
                             <span> </span>
                         </div>
@@ -210,11 +210,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +2.14k</span>
-                                <span class="deleted">     -2</span>
+                                <span class="added">   +498</span>
+                                <span class="deleted">   -237</span>
                             </div>
                             <span> </span>
                         </div>
@@ -268,53 +268,45 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,6.027741530615286)">
+                            <g class="tick" opacity="1" transform="translate(0,14.600746268656728)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">100k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,33.02219322449225)">
+                            <g class="tick" opacity="1" transform="translate(0,46.20055970149254)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">80k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,60.01664491836918)">
+                            <g class="tick" opacity="1" transform="translate(0,77.80037313432835)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">60k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,87.0110966122461)">
+                            <g class="tick" opacity="1" transform="translate(0,109.4001865671642)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,114.00554830612306)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">500</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,167.99445169387695)">
+                            <g class="tick" opacity="1" transform="translate(0,172.59981343283584)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−500</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,194.98890338775388)">
+                            <g class="tick" opacity="1" transform="translate(0,204.1996268656716)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,221.98335508163083)">
+                            <g class="tick" opacity="1" transform="translate(0,235.79944029850745)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−60k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−1.5k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,248.97780677550776)">
+                            <g class="tick" opacity="1" transform="translate(0,267.39925373134326)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−80k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,275.9722584693847)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L123.14,140.5L412.953,140.5L431.651,140.5L441,140.5L441,5L431.651,139.994L412.953,139.828L123.14,140.361L39,137.606Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L123.14,140.5L412.953,140.5L431.651,140.5L441,140.5L441,140.763L431.651,140.765L412.953,140.82L123.14,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L412.953,140.5L441,140.5L441,116.421L412.953,109.027L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L412.953,140.5L441,140.5L441,148.842L412.953,155.478L39,140.626Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -785,7 +777,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Implementing a distributed key-value store on top of implementing Raft in Go</div>
+                                <div class="title">AI Canon</div>
                                 <div class="date">25 May 2023</div>
                             </div>
                         </div>
@@ -794,7 +786,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Finetune GPT Like Large Language Models on a Custom Dataset</div>
+                                <div class="title">Implementing a distributed key-value store on top of implementing Raft in Go</div>
                                 <div class="date">25 May 2023</div>
                             </div>
                         </div>
@@ -4387,7 +4379,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.58m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.39m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4465,14 +4457,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 19:20:47 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 20:14:14 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
