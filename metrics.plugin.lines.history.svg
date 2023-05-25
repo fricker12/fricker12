@@ -313,8 +313,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L123.14,140.5L207.279,140.5L216.628,140.5L225.977,140.5L235.326,140.5L244.674,140.5L263.372,140.5L272.721,140.5L282.07,140.5L291.419,140.5L300.767,140.5L310.116,140.5L319.465,140.5L328.814,140.5L338.163,140.5L347.512,140.5L356.86,140.5L366.209,140.5L375.558,140.5L384.907,140.5L394.256,140.5L403.605,140.5L412.953,140.5L422.302,140.5L431.651,140.5L441,140.5L441,5L431.651,139.972L422.302,136.988L412.953,137.571L403.605,140.45L394.256,140.233L384.907,140.431L375.558,139.754L366.209,139.098L356.86,140.316L347.512,140.31L338.163,139.467L328.814,139.98L319.465,139.816L310.116,140.396L300.767,140.122L291.419,140.172L282.07,139.804L272.721,133.514L263.372,140.303L244.674,139.917L235.326,140.19L225.977,139.439L216.628,140.391L207.279,134.831L123.14,140.361L39,137.606Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L123.14,140.5L207.279,140.5L216.628,140.5L225.977,140.5L235.326,140.5L244.674,140.5L263.372,140.5L272.721,140.5L282.07,140.5L291.419,140.5L300.767,140.5L310.116,140.5L319.465,140.5L328.814,140.5L338.163,140.5L347.512,140.5L356.86,140.5L366.209,140.5L375.558,140.5L384.907,140.5L394.256,140.5L403.605,140.5L412.953,140.5L422.302,140.5L431.651,140.5L441,140.5L441,140.763L431.651,140.774L422.302,140.543L412.953,142.386L403.605,140.508L394.256,140.619L384.907,140.545L375.558,140.665L366.209,141.993L356.86,140.615L347.512,140.638L338.163,141.044L328.814,140.829L319.465,140.751L310.116,140.52L300.767,140.711L291.419,140.673L282.07,140.702L272.721,140.707L263.372,140.582L244.674,141.168L235.326,140.665L225.977,140.762L216.628,140.555L207.279,140.692L123.14,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L207.279,140.5L216.628,140.5L225.977,140.5L235.326,140.5L244.674,140.5L263.372,140.5L272.721,140.5L282.07,140.5L291.419,140.5L300.767,140.5L310.116,140.5L319.465,140.5L328.814,140.5L338.163,140.5L347.512,140.5L356.86,140.5L366.209,140.5L375.558,140.5L384.907,140.5L394.256,140.5L403.605,140.5L412.953,140.5L422.302,140.5L431.651,140.5L441,140.5L441,5L431.651,139.972L422.302,136.988L412.953,137.571L403.605,140.45L394.256,140.233L384.907,140.431L375.558,139.754L366.209,139.098L356.86,140.316L347.512,140.31L338.163,139.467L328.814,139.98L319.465,139.816L310.116,140.396L300.767,140.122L291.419,140.172L282.07,139.804L272.721,133.514L263.372,140.303L244.674,139.917L235.326,140.19L225.977,139.439L216.628,140.391L207.279,134.831L39,137.606Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L207.279,140.5L216.628,140.5L225.977,140.5L235.326,140.5L244.674,140.5L263.372,140.5L272.721,140.5L282.07,140.5L291.419,140.5L300.767,140.5L310.116,140.5L319.465,140.5L328.814,140.5L338.163,140.5L347.512,140.5L356.86,140.5L366.209,140.5L375.558,140.5L384.907,140.5L394.256,140.5L403.605,140.5L412.953,140.5L422.302,140.5L431.651,140.5L441,140.5L441,140.763L431.651,140.774L422.302,140.543L412.953,142.386L403.605,140.508L394.256,140.619L384.907,140.545L375.558,140.665L366.209,141.993L356.86,140.615L347.512,140.638L338.163,141.044L328.814,140.829L319.465,140.751L310.116,140.52L300.767,140.711L291.419,140.673L282.07,140.702L272.721,140.707L263.372,140.582L244.674,141.168L235.326,140.665L225.977,140.762L216.628,140.555L207.279,140.692L39,140.503Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -767,15 +767,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everything you always wanted to know about mathematics (2013) [pdf]</div>
-                                <div class="date">25 May 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">AI Canon</div>
                                 <div class="date">25 May 2023</div>
                             </div>
@@ -785,7 +776,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cases where full scans are better than indexes</div>
+                                <div class="title">Everything you always wanted to know about mathematics (2013) [pdf]</div>
                                 <div class="date">25 May 2023</div>
                             </div>
                         </div>
@@ -794,7 +785,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Implementing a distributed key-value store on top of implementing Raft in Go</div>
+                                <div class="title">Gorilla: LLM Connected with APIs</div>
+                                <div class="date">25 May 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Cases where full scans are better than indexes</div>
                                 <div class="date">25 May 2023</div>
                             </div>
                         </div>
@@ -4387,7 +4387,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.74m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.77m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4465,14 +4465,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 21:19:34 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 22:12:38 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
