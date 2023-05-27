@@ -313,8 +313,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L123.14,140.5L431.651,140.5L441,140.5L441,5L431.651,139.999L123.14,140.362L39,137.637Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L123.14,140.5L431.651,140.5L441,140.5L441,141.344L431.651,140.762L123.14,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L123.14,140.5L412.953,140.5L431.651,140.5L441,140.5L441,5L431.651,139.999L412.953,139.835L123.14,140.362L39,137.637Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L123.14,140.5L412.953,140.5L431.651,140.5L441,140.5L441,141.344L431.651,140.762L412.953,140.816L123.14,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -767,7 +767,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building a Personal VoIP System</div>
+                                <div class="title">Defining a new HTTP method: HTTP Search (2021)</div>
+                                <div class="date">27 May 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Scar Tissues Make Relationships Wear Out (2013)</div>
                                 <div class="date">27 May 2023</div>
                             </div>
                         </div>
@@ -785,16 +794,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Defining a new HTTP method: HTTP Search (2021)</div>
-                                <div class="date">27 May 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Scar Tissues Make Relationships Wear Out (2013)</div>
+                                <div class="title">Building a Personal VoIP System</div>
                                 <div class="date">27 May 2023</div>
                             </div>
                         </div>
@@ -4405,7 +4405,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 404m repositories</span>
+                                    <span class="gh">ranked 4.77m out of 404m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4520,14 +4520,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2023, 18:23:43 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 May 2023, 19:20:17 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
