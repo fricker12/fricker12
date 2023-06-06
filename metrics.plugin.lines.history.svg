@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -289,8 +289,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L121.227,140.5L203.455,140.5L212.591,140.5L221.727,140.5L230.864,140.5L240,140.5L258.273,140.5L267.409,140.5L276.545,140.5L285.682,140.5L294.818,140.5L303.955,140.5L313.091,140.5L322.227,140.5L331.364,140.5L340.5,140.5L349.636,140.5L358.773,140.5L367.909,140.5L377.045,140.5L386.182,140.5L395.318,140.5L404.455,140.5L413.591,140.5L422.727,140.5L431.864,140.5L441,140.5L441,130.814L431.864,130.29L422.727,140.081L413.591,72.384L404.455,83.693L395.318,139.531L386.182,135.317L377.045,139.165L367.909,126.023L358.773,113.301L349.636,136.94L340.5,136.809L331.364,120.473L322.227,130.421L313.091,127.227L303.955,138.484L294.818,133.17L285.682,134.139L276.545,126.992L267.409,5L258.273,136.678L240,129.191L230.864,134.479L221.727,119.924L212.591,138.38L203.455,30.55L121.227,137.804L39,84.373Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L121.227,140.5L203.455,140.5L212.591,140.5L221.727,140.5L230.864,140.5L240,140.5L258.273,140.5L267.409,140.5L276.545,140.5L285.682,140.5L294.818,140.5L303.955,140.5L313.091,140.5L322.227,140.5L331.364,140.5L340.5,140.5L349.636,140.5L358.773,140.5L367.909,140.5L377.045,140.5L386.182,140.5L395.318,140.5L404.455,140.5L413.591,140.5L422.727,140.5L431.864,140.5L441,140.5L441,145.997L431.864,144.034L422.727,140.683L413.591,141.338L404.455,177.071L395.318,140.657L386.182,142.804L377.045,141.364L367.909,143.694L358.773,169.453L349.636,142.725L340.5,143.17L331.364,151.05L322.227,146.888L313.091,145.369L303.955,140.893L294.818,144.584L285.682,143.851L276.545,144.427L267.409,144.505L258.273,142.097L240,153.458L230.864,143.694L221.727,145.579L212.591,141.573L203.455,144.217L121.227,140.552L39,140.552Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L121.227,140.5L203.455,140.5L212.591,140.5L221.727,140.5L230.864,140.5L240,140.5L258.273,140.5L267.409,140.5L276.545,140.5L285.682,140.5L294.818,140.5L303.955,140.5L313.091,140.5L322.227,140.5L331.364,140.5L340.5,140.5L349.636,140.5L358.773,140.5L367.909,140.5L377.045,140.5L386.182,140.5L395.318,140.5L404.455,140.5L413.591,140.5L422.727,140.5L431.864,140.5L441,140.5L441,130.814L431.864,132.542L422.727,130.264L413.591,72.384L404.455,96.73L395.318,139.531L386.182,135.317L377.045,139.165L367.909,126.023L358.773,113.301L349.636,136.94L340.5,136.809L331.364,120.473L322.227,130.421L313.091,127.227L303.955,138.484L294.818,133.17L285.682,134.139L276.545,126.992L267.409,5L258.273,136.678L240,129.191L230.864,134.479L221.727,119.924L212.591,138.38L203.455,30.55L121.227,137.804L39,84.373Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L121.227,140.5L203.455,140.5L212.591,140.5L221.727,140.5L230.864,140.5L240,140.5L258.273,140.5L267.409,140.5L276.545,140.5L285.682,140.5L294.818,140.5L303.955,140.5L313.091,140.5L322.227,140.5L331.364,140.5L340.5,140.5L349.636,140.5L358.773,140.5L367.909,140.5L377.045,140.5L386.182,140.5L395.318,140.5L404.455,140.5L413.591,140.5L422.727,140.5L431.864,140.5L441,140.5L441,145.997L431.864,145.5L422.727,145.814L413.591,141.338L404.455,170.867L395.318,140.657L386.182,142.804L377.045,141.364L367.909,143.694L358.773,169.453L349.636,142.725L340.5,143.17L331.364,151.05L322.227,146.888L313.091,145.369L303.955,140.893L294.818,144.584L285.682,143.851L276.545,144.427L267.409,144.505L258.273,142.097L240,153.458L230.864,143.694L221.727,145.579L212.591,141.573L203.455,144.217L121.227,140.552L39,140.552Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -761,8 +761,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Forests around Chernobyl aren’t decaying properly (2014)</div>
-                                <div class="date">5 Jun 2023</div>
+                                <div class="title">Preparing for the Incoming Computer Shopper Tsunami</div>
+                                <div class="date">6 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -770,8 +770,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Excel error led Austria's SPÖ to announce the wrong candidate as the winner</div>
-                                <div class="date">5 Jun 2023</div>
+                                <div class="title">Demo: Fully P2P and open source Reddit alternative</div>
+                                <div class="date">6 Jun 2023</div>
                             </div>
                         </div>
                     </section>
@@ -2766,6 +2766,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2985,6 +2990,7 @@
                                 </g>
                                 <g transform="translate(345, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -3082,13 +3088,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.65k
+                                        8.68k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        992
+                                        995
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3284,13 +3290,8 @@
                             <div class="entry">
                                 <span class="value">5</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                23
-                                <div class="bottom">May</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 24
+                                <div class="bottom">May</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3352,6 +3353,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                6
                             </div>
                         </div>
                     </section>
@@ -3359,15 +3365,10 @@
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                23
-                                <div class="bottom">May</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 24
+                                <div class="bottom">May</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3429,6 +3430,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                6
                             </div>
                         </div>
                     </section>
@@ -4282,7 +4288,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.18m out of 117m users</span>
+                                    <span class="gh">ranked 3.19m out of 117m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -4406,7 +4412,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.74m out of 406m repositories</span>
+                                    <span class="gh">ranked 4.72m out of 406m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4521,14 +4527,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2023, 02:16:20 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jun 2023, 04:43:11 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
