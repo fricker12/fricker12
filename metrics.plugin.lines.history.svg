@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DBManager</span>
+                            <span class="diff-handle">fricker12/CSVtoICSconverter</span>
                         </div>
                     </section>
                     <section>
@@ -210,11 +210,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +342</span>
-                                <span class="deleted">    -62</span>
+                                <span class="added">   +498</span>
+                                <span class="deleted">   -237</span>
                             </div>
                             <span> </span>
                         </div>
@@ -260,37 +260,37 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,32.599999999999994)">
+                            <g class="tick" opacity="1" transform="translate(0,20.733727810650876)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">300</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">600</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,68.73333333333332)">
+                            <g class="tick" opacity="1" transform="translate(0,60.822485207100605)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">400</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,100.9112426035503)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,104.86666666666667)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">100</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,177.13333333333333)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−100</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,213.26666666666665)">
+                            <g class="tick" opacity="1" transform="translate(0,181.08875739644972)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,249.4)">
+                            <g class="tick" opacity="1" transform="translate(0,221.1775147928994)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−300</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−400</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,261.2662721893491)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−600</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L429.176,140.5L441,140.5L441,33.907L429.176,5L39,103.283Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L429.176,140.5L441,140.5L441,208.431L429.176,211.321L39,141.223Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L405.529,140.5L429.176,140.5L441,140.5L441,5L429.176,65.334L405.529,40.679L39,119.854Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L405.529,140.5L429.176,140.5L441,140.5L441,204.642L429.176,179.787L405.529,188.005L39,140.901Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -743,15 +743,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Starlink v2 reached the brightness reduction target recommended by astronomers</div>
-                                <div class="date">17 Jun 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Update: U+237C ⍼ &amp;Angzarr;</div>
                                 <div class="date">17 Jun 2023</div>
                             </div>
@@ -771,6 +762,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Gitless a simple VCS built on top of Git</div>
+                                <div class="date">17 Jun 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Japanese biomass venture using microorganisms to tackle waste disposal</div>
                                 <div class="date">17 Jun 2023</div>
                             </div>
                         </div>
@@ -4413,7 +4413,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.67m out of 409m repositories</span>
+                                    <span class="gh">ranked 4.79m out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4535,7 +4535,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2023, 19:19:32 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jun 2023, 20:13:07 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
