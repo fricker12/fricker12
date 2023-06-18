@@ -313,8 +313,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L121.227,140.5L404.455,140.5L422.727,140.5L431.864,140.5L441,140.5L441,140.365L431.864,5L422.727,139.999L404.455,139.835L121.227,140.362L39,137.637Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L121.227,140.5L404.455,140.5L422.727,140.5L431.864,140.5L441,140.5L441,140.654L431.864,141.344L422.727,140.762L404.455,140.816L121.227,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L121.227,140.5L422.727,140.5L431.864,140.5L441,140.5L441,140.365L431.864,5L422.727,139.999L121.227,140.362L39,137.637Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L121.227,140.5L422.727,140.5L431.864,140.5L441,140.5L441,140.654L431.864,141.344L422.727,140.762L121.227,140.503L39,140.503Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -547,15 +547,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 37mb of code in 91 edited files across 41 commits</small>
+                <small>estimation from 37mb of code in 123 edited files across 74 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.0163326438913" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.0163326438913" y="0" width="28.55930390129092" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="424.57563654518225" y="0" width="495.4243634548178" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.90873066598493" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="283.90873066598493" y="0" width="20.474498274319316" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="304.3832289403042" y="0" width="615.6167710596958" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -767,7 +767,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Imaginary problems are the root of bad software</div>
+                                <div class="title">Swing VPN app is a DDoS botnet</div>
                                 <div class="date">18 Jun 2023</div>
                             </div>
                         </div>
@@ -785,7 +785,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Archives.design: curated graphic design from Internet Archive</div>
+                                <div class="title">Imaginary problems are the root of bad software</div>
                                 <div class="date">18 Jun 2023</div>
                             </div>
                         </div>
@@ -794,7 +794,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jellyfin: The Free Software Media System</div>
+                                <div class="title">The WFH Future Is Destroying Bosses' Brains</div>
                                 <div class="date">18 Jun 2023</div>
                             </div>
                         </div>
@@ -3077,7 +3077,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Carol42/Carol42</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4443,7 +4443,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 409m repositories</span>
+                                    <span class="gh">ranked 4.65m out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4558,14 +4558,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2023, 21:18:36 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jun 2023, 22:12:27 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
