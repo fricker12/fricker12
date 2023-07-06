@@ -276,15 +276,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.149863182832107)">
+                            <g class="tick" opacity="1" transform="translate(0,6.993833738401182)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">800k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,40.49537530380089)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,64.43324212188804)">
+                            <g class="tick" opacity="1" transform="translate(0,73.99691686920059)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,102.71662106094404)">
+                            <g class="tick" opacity="1" transform="translate(0,107.4984584346003)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
                             </g>
@@ -292,21 +296,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,179.28337893905598)">
+                            <g class="tick" opacity="1" transform="translate(0,174.50154156539972)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,217.56675787811193)">
+                            <g class="tick" opacity="1" transform="translate(0,208.0030831307994)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.85013681716788)">
+                            <g class="tick" opacity="1" transform="translate(0,241.50462469619913)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,275.0061662615988)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−800k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L112.837,140.5L260.51,140.5L285.122,140.5L293.327,140.5L317.939,140.5L358.959,140.5L367.163,140.5L383.571,140.5L391.776,140.5L399.98,140.5L432.796,140.5L441,140.5L441,140.311L432.796,5L399.98,140.481L391.776,121.148L383.571,140.428L367.163,140.405L358.959,140.497L317.939,140.499L293.327,140.499L285.122,140.494L260.51,140.463L112.837,140.48L39,140.09Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L112.837,140.5L260.51,140.5L285.122,140.5L293.327,140.5L317.939,140.5L358.959,140.5L367.163,140.5L383.571,140.5L391.776,140.5L399.98,140.5L432.796,140.5L441,140.5L441,140.574L432.796,140.544L399.98,140.522L391.776,140.596L383.571,140.538L367.163,140.545L358.959,140.5L317.939,140.501L293.327,140.5L285.122,140.502L260.51,140.504L112.837,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L112.837,140.5L186.673,140.5L194.878,140.5L203.082,140.5L211.286,140.5L219.49,140.5L235.898,140.5L244.102,140.5L252.306,140.5L260.51,140.5L268.714,140.5L276.918,140.5L285.122,140.5L293.327,140.5L301.531,140.5L309.735,140.5L317.939,140.5L326.143,140.5L334.347,140.5L342.551,140.5L350.755,140.5L358.959,140.5L367.163,140.5L375.367,140.5L383.571,140.5L391.776,140.5L399.98,140.5L408.184,140.5L416.388,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.335L432.796,5L424.592,140.116L416.388,140.487L408.184,140.498L399.98,140.421L391.776,123.5L383.571,140.435L375.367,140.064L367.163,140.137L358.959,140.494L350.755,140.467L342.551,140.491L334.347,140.407L326.143,140.326L317.939,140.477L309.735,140.476L301.531,140.372L293.327,140.436L285.122,140.415L276.918,140.487L268.714,140.453L260.51,140.459L252.306,140.414L244.102,139.633L235.898,140.476L219.49,140.428L211.286,140.461L203.082,140.368L194.878,140.486L186.673,139.796L112.837,140.483L39,140.141Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L112.837,140.5L186.673,140.5L194.878,140.5L203.082,140.5L211.286,140.5L219.49,140.5L235.898,140.5L244.102,140.5L252.306,140.5L260.51,140.5L268.714,140.5L276.918,140.5L285.122,140.5L293.327,140.5L301.531,140.5L309.735,140.5L317.939,140.5L326.143,140.5L334.347,140.5L342.551,140.5L350.755,140.5L358.959,140.5L367.163,140.5L375.367,140.5L383.571,140.5L391.776,140.5L399.98,140.5L408.184,140.5L416.388,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.565L432.796,140.562L424.592,140.638L416.388,140.502L408.184,140.5L399.98,140.554L391.776,140.606L383.571,140.534L375.367,140.505L367.163,140.734L358.959,140.501L350.755,140.515L342.551,140.506L334.347,140.52L326.143,140.685L317.939,140.514L309.735,140.517L301.531,140.568L293.327,140.541L285.122,140.531L276.918,140.503L268.714,140.526L260.51,140.521L252.306,140.525L244.102,140.526L235.898,140.51L219.49,140.583L211.286,140.52L203.082,140.532L194.878,140.507L186.673,140.524L112.837,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -782,6 +790,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Air France Denied My Delay Compensation, So I Challenged Them and Won</div>
+                                <div class="date">7 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">“Self-reflecting” AI agents explore like animals</div>
                                 <div class="date">7 Jul 2023</div>
                             </div>
@@ -791,17 +808,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chat with Andreas Kling about Ladybird and developing a browser engine</div>
-                                <div class="date">6 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Zink brings conformant OpenGL on Imagination GPUs</div>
-                                <div class="date">6 Jul 2023</div>
+                                <div class="title">Annotated scripts of old Sierra games</div>
+                                <div class="date">7 Jul 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4153,14 +4161,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2023, 01:17:03 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jul 2023, 02:18:33 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
