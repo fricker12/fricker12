@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesLogParsing_</span>
+                            <span class="diff-handle">fricker12/SQLAchemyDataParser</span>
                         </div>
                     </section>
                     <section>
@@ -214,7 +214,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added">  +101k</span>
-                                <span class="deleted">   -179</span>
+                                <span class="deleted">   -388</span>
                             </div>
                             <span> </span>
                         </div>
@@ -276,15 +276,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.312365104488485)">
+                            <g class="tick" opacity="1" transform="translate(0,7.005429005127402)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">800k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,40.50407175384555)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,64.54157673632565)">
+                            <g class="tick" opacity="1" transform="translate(0,74.00271450256369)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,102.77078836816284)">
+                            <g class="tick" opacity="1" transform="translate(0,107.50135725128185)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
                             </g>
@@ -292,21 +296,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,179.22921163183716)">
+                            <g class="tick" opacity="1" transform="translate(0,174.49864274871814)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,217.45842326367435)">
+                            <g class="tick" opacity="1" transform="translate(0,207.9972854974363)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.6876348955115)">
+                            <g class="tick" opacity="1" transform="translate(0,241.49592824615445)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,274.9945709948726)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−800k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L112.837,140.5L383.571,140.5L391.776,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.462L432.796,5L424.592,139.986L391.776,140.371L383.571,140.428L112.837,140.48L39,140.09Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L112.837,140.5L383.571,140.5L391.776,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.536L432.796,140.575L424.592,140.882L391.776,140.561L383.571,140.537L112.837,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L112.837,140.5L260.51,140.5L285.122,140.5L293.327,140.5L317.939,140.5L358.959,140.5L367.163,140.5L391.776,140.5L399.98,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.301L432.796,5L424.592,140.05L399.98,140.483L391.776,123.552L367.163,140.417L358.959,140.497L317.939,140.499L293.327,140.499L285.122,140.495L260.51,140.468L112.837,140.483L39,140.141Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L112.837,140.5L260.51,140.5L285.122,140.5L293.327,140.5L317.939,140.5L358.959,140.5L367.163,140.5L391.776,140.5L399.98,140.5L424.592,140.5L432.796,140.5L441,140.5L441,140.596L432.796,140.566L424.592,140.835L399.98,140.519L391.776,140.574L367.163,140.54L358.959,140.5L317.939,140.501L293.327,140.5L285.122,140.502L260.51,140.503L112.837,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -782,7 +790,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MDN Playground</div>
+                                <div class="title">Anytype – open-source, local-first, P2P Notion alternative</div>
                                 <div class="date">20 Jul 2023</div>
                             </div>
                         </div>
@@ -4177,7 +4185,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2023, 15:33:12 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jul 2023, 16:20:29 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
