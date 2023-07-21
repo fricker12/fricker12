@@ -305,8 +305,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−800k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L125.143,140.5L134.714,140.5L144.286,140.5L153.857,140.5L163.429,140.5L182.571,140.5L192.143,140.5L201.714,140.5L211.286,140.5L220.857,140.5L230.429,140.5L240,140.5L249.571,140.5L259.143,140.5L268.714,140.5L278.286,140.5L287.857,140.5L297.429,140.5L307,140.5L316.571,140.5L326.143,140.5L335.714,140.5L345.286,140.5L354.857,140.5L364.429,140.5L374,140.5L383.571,140.5L393.143,140.5L402.714,140.5L412.286,140.5L421.857,140.5L431.429,140.5L441,140.5L441,140.43L431.429,140.226L421.857,140.301L412.286,5L402.714,139.666L393.143,140.487L383.571,140.498L374,140.421L364.429,123.505L354.857,140.435L345.286,140.064L335.714,140.137L326.143,140.491L316.571,140.467L307,140.491L297.429,140.407L287.857,140.326L278.286,140.477L268.714,140.476L259.143,140.372L249.571,140.435L240,140.41L230.429,140.487L220.857,140.453L211.286,140.427L201.714,140.414L192.143,139.633L182.571,140.476L163.429,140.428L153.857,140.461L144.286,140.368L134.714,140.486L125.143,139.797L39,140.483Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L125.143,140.5L134.714,140.5L144.286,140.5L153.857,140.5L163.429,140.5L182.571,140.5L192.143,140.5L201.714,140.5L211.286,140.5L220.857,140.5L230.429,140.5L240,140.5L249.571,140.5L259.143,140.5L268.714,140.5L278.286,140.5L287.857,140.5L297.429,140.5L307,140.5L316.571,140.5L326.143,140.5L335.714,140.5L345.286,140.5L354.857,140.5L364.429,140.5L374,140.5L383.571,140.5L393.143,140.5L402.714,140.5L412.286,140.5L421.857,140.5L431.429,140.5L441,140.5L441,140.548L431.429,140.772L421.857,140.596L412.286,140.586L402.714,140.973L393.143,140.502L383.571,140.5L374,140.554L364.429,140.606L354.857,140.534L345.286,140.505L335.714,140.734L326.143,140.501L316.571,140.515L307,140.506L297.429,140.52L287.857,140.685L278.286,140.515L268.714,140.517L259.143,140.567L249.571,140.541L240,140.533L230.429,140.503L220.857,140.526L211.286,140.525L201.714,140.525L192.143,140.526L182.571,140.51L163.429,140.583L153.857,140.52L144.286,140.532L134.714,140.507L125.143,140.524L39,140.5Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L125.143,140.5L134.714,140.5L144.286,140.5L153.857,140.5L163.429,140.5L182.571,140.5L192.143,140.5L201.714,140.5L211.286,140.5L220.857,140.5L230.429,140.5L240,140.5L249.571,140.5L259.143,140.5L268.714,140.5L278.286,140.5L287.857,140.5L297.429,140.5L307,140.5L316.571,140.5L326.143,140.5L335.714,140.5L345.286,140.5L354.857,140.5L364.429,140.5L374,140.5L383.571,140.5L393.143,140.5L402.714,140.5L412.286,140.5L421.857,140.5L431.429,140.5L441,140.5L441,140.43L431.429,140.226L421.857,140.301L412.286,5L402.714,139.666L393.143,140.487L383.571,140.498L374,140.421L364.429,123.618L354.857,140.497L345.286,140.064L335.714,140.137L326.143,140.491L316.571,140.467L307,140.491L297.429,140.407L287.857,140.326L278.286,140.477L268.714,140.476L259.143,140.372L249.571,140.435L240,140.41L230.429,140.487L220.857,140.453L211.286,140.427L201.714,140.414L192.143,139.633L182.571,140.476L163.429,140.428L153.857,140.461L144.286,140.368L134.714,140.486L125.143,139.797L39,140.483Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L125.143,140.5L134.714,140.5L144.286,140.5L153.857,140.5L163.429,140.5L182.571,140.5L192.143,140.5L201.714,140.5L211.286,140.5L220.857,140.5L230.429,140.5L240,140.5L249.571,140.5L259.143,140.5L268.714,140.5L278.286,140.5L287.857,140.5L297.429,140.5L307,140.5L316.571,140.5L326.143,140.5L335.714,140.5L345.286,140.5L354.857,140.5L364.429,140.5L374,140.5L383.571,140.5L393.143,140.5L402.714,140.5L412.286,140.5L421.857,140.5L431.429,140.5L441,140.5L441,140.548L431.429,140.772L421.857,140.596L412.286,140.586L402.714,140.973L393.143,140.502L383.571,140.5L374,140.554L364.429,140.553L354.857,140.501L345.286,140.505L335.714,140.734L326.143,140.501L316.571,140.515L307,140.506L297.429,140.52L287.857,140.685L278.286,140.515L268.714,140.517L259.143,140.567L249.571,140.541L240,140.533L230.429,140.503L220.857,140.526L211.286,140.525L201.714,140.525L192.143,140.526L182.571,140.51L163.429,140.583L153.857,140.52L144.286,140.532L134.714,140.507L125.143,140.524L39,140.5Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -782,15 +782,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Study finds billions of nanoplastics released when microwaving containers</div>
-                                <div class="date">21 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">A 17th-century font in a 21st-century thesis</div>
                                 <div class="date">21 Jul 2023</div>
                             </div>
@@ -800,7 +791,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers</div>
+                                <div class="title">Fly.io Postgres cluster down for 3 days, no word from them about it</div>
+                                <div class="date">21 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Oxide Computer: Docs</div>
                                 <div class="date">20 Jul 2023</div>
                             </div>
                         </div>
@@ -4138,7 +4138,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Jul 2023, 20:27:07
+                            On 18 Jul 2023, 20:22:52
                         </div>
                     </section>
                 </div>
@@ -4148,14 +4148,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix
+                            new vers bing
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">b5d7fc6d</span>
-                            <span class="code">FUNCTIONS/botFunctions.py</span>
+                            <span class="code">91041eb0</span>
+                            <span class="code">requirements.txt</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4166,7 +4166,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -161,7 +161,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">try:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    # with open('cookie.json', 'r') as f:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    #    cookies = json.load(f)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    cookies = json.loads(open("cookies.json", encoding="utf-8").read())<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    cookies = json.loads(open("cookie.json", encoding="utf-8").read())<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    botBing = await Chatbot.create(cookies=cookies)<br /></span><span class="token prefix unchanged">·</span><span class="token line">    Answer = await botBing.ask(prompt=message, conversation_style=ConversationStyle.creative, simplify_response=True)<br /></span><span class="token prefix unchanged">·</span><span class="token line">    try:</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -30,7 +30,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">yt-dlp==2023.3.4<br /></span><span class="token prefix unchanged">·</span><span class="token line">datefinder==0.7.3<br /></span><span class="token prefix unchanged">·</span><span class="token line">accuweather==0.5.0<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">EdgeGPT==0.11.6<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">EdgeGPT==0.12.1<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">instagrapi==1.16.41<br /></span><span class="token prefix unchanged">·</span><span class="token line">GoogleBard==1.0.0<br /></span><span class="token prefix unchanged">·</span><span class="token line">MailGw-Temporary-Email==0.0.2</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4181,14 +4181,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2023, 07:19:00 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Jul 2023, 08:15:00 (timezone Europe/Kiev) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
