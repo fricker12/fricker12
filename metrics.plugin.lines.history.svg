@@ -284,19 +284,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,7.005429005127402)">
+                            <g class="tick" opacity="1" transform="translate(0,7.035732867342)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">800k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,40.50407175384555)">
+                            <g class="tick" opacity="1" transform="translate(0,40.52679965050651)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,74.00271450256369)">
+                            <g class="tick" opacity="1" transform="translate(0,74.017866433671)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,107.50135725128185)">
+                            <g class="tick" opacity="1" transform="translate(0,107.50893321683552)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
                             </g>
@@ -304,25 +304,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,174.49864274871814)">
+                            <g class="tick" opacity="1" transform="translate(0,174.49106678316448)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,207.9972854974363)">
+                            <g class="tick" opacity="1" transform="translate(0,207.982133566329)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,241.49592824615445)">
+                            <g class="tick" opacity="1" transform="translate(0,241.47320034949348)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,274.9945709948726)">
+                            <g class="tick" opacity="1" transform="translate(0,274.964267132658)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−800k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L216.934,140.5L236.705,140.5L243.295,140.5L263.066,140.5L296.016,140.5L302.607,140.5L315.787,140.5L322.377,140.5L328.967,140.5L348.738,140.5L355.328,140.5L361.918,140.5L388.279,140.5L394.869,140.5L401.459,140.5L408.049,140.5L427.82,140.5L434.41,140.5L441,140.5L441,140.48L434.41,140.373L427.82,140.491L408.049,140.445L401.459,139.538L394.869,140.443L388.279,137.695L361.918,140.301L355.328,5L348.738,140.05L328.967,140.483L322.377,123.503L315.787,140.437L302.607,140.417L296.016,140.497L263.066,140.499L243.295,140.499L236.705,140.495L216.934,140.468L39,140.141Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L216.934,140.5L236.705,140.5L243.295,140.5L263.066,140.5L296.016,140.5L302.607,140.5L315.787,140.5L322.377,140.5L328.967,140.5L348.738,140.5L355.328,140.5L361.918,140.5L388.279,140.5L394.869,140.5L401.459,140.5L408.049,140.5L427.82,140.5L434.41,140.5L441,140.5L441,140.515L434.41,140.534L427.82,140.503L408.049,140.529L401.459,140.776L394.869,140.525L388.279,140.5L361.918,140.596L355.328,140.566L348.738,140.835L328.967,140.519L322.377,140.606L315.787,140.533L302.607,140.54L296.016,140.5L263.066,140.501L243.295,140.5L236.705,140.502L216.934,140.503L39,140.5Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L98.311,140.5L157.623,140.5L164.213,140.5L170.803,140.5L177.393,140.5L183.984,140.5L197.164,140.5L203.754,140.5L210.344,140.5L216.934,140.5L223.525,140.5L230.115,140.5L236.705,140.5L243.295,140.5L249.885,140.5L256.475,140.5L263.066,140.5L269.656,140.5L276.246,140.5L282.836,140.5L289.426,140.5L296.016,140.5L302.607,140.5L309.197,140.5L315.787,140.5L322.377,140.5L328.967,140.5L335.557,140.5L342.148,140.5L348.738,140.5L355.328,140.5L361.918,140.5L368.508,140.5L375.098,140.5L381.689,140.5L388.279,140.5L394.869,140.5L401.459,140.5L408.049,140.5L427.82,140.5L434.41,140.5L441,140.5L441,140.48L434.41,140.373L427.82,140.491L408.049,140.445L401.459,139.538L394.869,140.443L388.279,137.644L381.689,140.362L375.098,140.43L368.508,140.226L361.918,140.301L355.328,5L348.738,139.666L342.148,140.487L335.557,140.498L328.967,140.438L322.377,140.385L315.787,140.435L309.197,140.064L302.607,140.137L296.016,140.494L289.426,140.467L282.836,140.491L276.246,140.407L269.656,140.326L263.066,140.477L256.475,140.476L249.885,140.372L243.295,140.436L236.705,140.415L230.115,140.487L223.525,140.453L216.934,140.459L210.344,140.414L203.754,139.633L197.164,140.476L183.984,140.428L177.393,140.461L170.803,140.368L164.213,140.486L157.623,139.797L98.311,140.483L39,140.141Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L98.311,140.5L157.623,140.5L164.213,140.5L170.803,140.5L177.393,140.5L183.984,140.5L197.164,140.5L203.754,140.5L210.344,140.5L216.934,140.5L223.525,140.5L230.115,140.5L236.705,140.5L243.295,140.5L249.885,140.5L256.475,140.5L263.066,140.5L269.656,140.5L276.246,140.5L282.836,140.5L289.426,140.5L296.016,140.5L302.607,140.5L309.197,140.5L315.787,140.5L322.377,140.5L328.967,140.5L335.557,140.5L342.148,140.5L348.738,140.5L355.328,140.5L361.918,140.5L368.508,140.5L375.098,140.5L381.689,140.5L388.279,140.5L394.869,140.5L401.459,140.5L408.049,140.5L427.82,140.5L434.41,140.5L441,140.5L441,140.515L434.41,140.534L427.82,140.503L408.049,140.529L401.459,140.775L394.869,140.525L388.279,140.54L381.689,140.647L375.098,140.548L368.508,140.772L361.918,140.596L355.328,140.586L348.738,140.973L342.148,140.502L335.557,140.5L328.967,140.535L322.377,140.554L315.787,140.534L309.197,140.505L302.607,140.734L296.016,140.501L289.426,140.515L282.836,140.506L276.246,140.52L269.656,140.685L263.066,140.514L256.475,140.517L249.885,140.567L243.295,140.541L236.705,140.531L230.115,140.503L223.525,140.526L216.934,140.521L210.344,140.525L203.754,140.526L197.164,140.51L183.984,140.583L177.393,140.52L170.803,140.532L164.213,140.507L157.623,140.524L98.311,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1085,6 +1085,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">How Many Microbes Does It Take to Make You Sick?</div>
+                                <div class="date">1 Oct 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Tire Dust Makes Up the Majority of Ocean Microplastics</div>
                                 <div class="date">1 Oct 2023</div>
                             </div>
@@ -1095,15 +1104,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">FlashAttention: Fast Transformer training with long sequences</div>
-                                <div class="date">1 Oct 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit</div>
                                 <div class="date">1 Oct 2023</div>
                             </div>
                         </div>
@@ -3521,7 +3521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vgrem/Office365-REST-Python-Client</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microsoft 365 &amp; Microsoft Graph Library for Python</div>
@@ -4919,7 +4919,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.82m out of 53.4m repositories</span>
+                                    <span class="gh">ranked 4.42m out of 49.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4991,7 +4991,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 29 Sept 2023, 10:13:04
+                            On 29 Sept 2023, 10:32:15
                         </div>
                     </section>
                 </div>
@@ -5007,7 +5007,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">317efb30</span>
+                            <span class="code">810733a2</span>
                             <span class="code">startbot.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -5019,7 +5019,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1504,7 +1504,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">def scheduler():<br /></span><span class="token prefix unchanged">·</span><span class="token line">  """Планировщик"""<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  schedule.every().day.at("06:30").do(weather_post)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  schedule.every().day.at("07:30").do(weather_post)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  while True:<br /></span><span class="token prefix unchanged">·</span><span class="token line">      schedule.run_pending()<br /></span><span class="token prefix unchanged">·</span><span class="token line">      asyncio.sleep(1)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1504,7 +1504,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">def scheduler():<br /></span><span class="token prefix unchanged">·</span><span class="token line">  """Планировщик"""<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  schedule.every().day.at("07:30").do(weather_post)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  schedule.every().day.at("06:30").do(weather_post)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  while True:<br /></span><span class="token prefix unchanged">·</span><span class="token line">      schedule.run_pending()<br /></span><span class="token prefix unchanged">·</span><span class="token line">      asyncio.sleep(1)</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5034,14 +5034,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2023, 19:18:46 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2023, 20:13:30 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
