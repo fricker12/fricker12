@@ -190,7 +190,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesLogParsing_</span>
+                            <span class="diff-handle">fricker12/SQLAchemyDataParser</span>
                         </div>
                     </section>
                     <section>
@@ -214,7 +214,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added">  +101k</span>
-                                <span class="deleted">   -179</span>
+                                <span class="deleted">   -388</span>
                             </div>
                             <span> </span>
                         </div>
@@ -288,15 +288,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.312365104488485)">
+                            <g class="tick" opacity="1" transform="translate(0,7.005429005127402)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">800k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,40.50407175384555)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">600k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,64.54157673632565)">
+                            <g class="tick" opacity="1" transform="translate(0,74.00271450256369)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,102.77078836816284)">
+                            <g class="tick" opacity="1" transform="translate(0,107.50135725128185)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
                             </g>
@@ -304,21 +308,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,179.22921163183716)">
+                            <g class="tick" opacity="1" transform="translate(0,174.49864274871814)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,217.45842326367435)">
+                            <g class="tick" opacity="1" transform="translate(0,207.9972854974363)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.6876348955115)">
+                            <g class="tick" opacity="1" transform="translate(0,241.49592824615445)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,274.9945709948726)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−800k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L208.594,140.5L227.438,140.5L233.719,140.5L252.563,140.5L283.969,140.5L290.25,140.5L309.094,140.5L334.219,140.5L340.5,140.5L346.781,140.5L371.906,140.5L378.188,140.5L384.469,140.5L390.75,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.499L434.719,140.498L428.438,140.499L422.156,140.477L415.875,140.355L409.594,140.49L390.75,140.437L384.469,139.504L378.188,140.468L371.906,137.299L346.781,140.462L340.5,5L334.219,139.986L309.094,140.427L290.25,140.405L283.969,140.497L252.563,140.499L233.719,140.499L227.438,140.494L208.594,140.463L39,140.09Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L208.594,140.5L227.438,140.5L233.719,140.5L252.563,140.5L283.969,140.5L290.25,140.5L309.094,140.5L334.219,140.5L340.5,140.5L346.781,140.5L371.906,140.5L378.188,140.5L384.469,140.5L390.75,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.501L434.719,140.501L428.438,140.5L422.156,140.517L415.875,140.538L409.594,140.504L390.75,140.533L384.469,140.783L378.188,140.528L371.906,140.5L346.781,140.536L340.5,140.575L334.219,140.882L309.094,140.525L290.25,140.545L283.969,140.5L252.563,140.501L233.719,140.5L227.438,140.502L208.594,140.504L39,140.5Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L95.531,140.5L208.594,140.5L227.438,140.5L233.719,140.5L252.563,140.5L283.969,140.5L302.813,140.5L309.094,140.5L315.375,140.5L334.219,140.5L340.5,140.5L346.781,140.5L371.906,140.5L378.188,140.5L384.469,140.5L390.75,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.499L434.719,140.498L428.438,140.499L422.156,140.48L415.875,140.373L409.594,140.491L390.75,140.445L384.469,139.538L378.188,140.443L371.906,137.695L346.781,140.301L340.5,5L334.219,140.05L315.375,140.483L309.094,123.567L302.813,140.437L283.969,140.497L252.563,140.499L233.719,140.499L227.438,140.495L208.594,140.468L95.531,140.483L39,140.141Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L95.531,140.5L208.594,140.5L227.438,140.5L233.719,140.5L252.563,140.5L283.969,140.5L302.813,140.5L309.094,140.5L315.375,140.5L334.219,140.5L340.5,140.5L346.781,140.5L371.906,140.5L378.188,140.5L384.469,140.5L390.75,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.501L434.719,140.501L428.438,140.5L422.156,140.515L415.875,140.534L409.594,140.503L390.75,140.529L384.469,140.776L378.188,140.525L371.906,140.5L346.781,140.596L340.5,140.566L334.219,140.835L315.375,140.519L309.094,140.584L302.813,140.533L283.969,140.5L252.563,140.501L233.719,140.5L227.438,140.502L208.594,140.503L95.531,140.5L39,140.5Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1060,8 +1068,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Progress on No-GIL CPython</div>
-                                <div class="date">20 Oct 2023</div>
+                                <div class="title">The next Raptor OpenPOWER systems are coming, but they won't be Power10</div>
+                                <div class="date">21 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1078,8 +1086,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Shortest Papers Ever Published</div>
-                                <div class="date">21 Oct 2023</div>
+                                <div class="title">Progress on No-GIL CPython</div>
+                                <div class="date">20 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1087,8 +1095,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mitigating the Hetzner/Linode XMPP.ru MitM interception incident</div>
-                                <div class="date">20 Oct 2023</div>
+                                <div class="title">The Shortest Papers Ever Published</div>
+                                <div class="date">21 Oct 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4888,7 +4896,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 88.7m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 86.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -5003,14 +5011,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 06:15:34 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 07:18:02 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
