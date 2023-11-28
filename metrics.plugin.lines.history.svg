@@ -1088,7 +1088,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers</div>
+                                <div class="title">MeshGPT: Generating triangle meshes with decoder-only transformers</div>
+                                <div class="date">28 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Relational Deep Learning: Graph representation learning on relational databases [pdf]</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -1106,16 +1115,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]</div>
-                                <div class="date">28 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]</div>
+                                <div class="title">FDA agrees Loyal's data supports effectiveness for large dog lifespan extension</div>
                                 <div class="date">28 Nov 2023</div>
                             </div>
                         </div>
@@ -4935,7 +4935,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.08m out of 53.3m repositories</span>
+                                    <span class="gh">ranked 5.05m out of 42.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -5013,14 +5013,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 20:20:55 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 21:13:04 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
