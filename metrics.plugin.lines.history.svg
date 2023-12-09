@@ -1104,8 +1104,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FDA approves a CRISPR-based medicine for treatment of sickle cell disease</div>
-                                <div class="date">8 Dec 2023</div>
+                                <div class="title">OpenBao – FOSS Fork of HashiCorp Vault</div>
+                                <div class="date">9 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1122,8 +1122,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenBao – FOSS Fork of HashiCorp Vault</div>
-                                <div class="date">9 Dec 2023</div>
+                                <div class="title">Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos</div>
+                                <div class="date">8 Dec 2023</div>
                             </div>
                         </div>
                     </section>
@@ -5069,7 +5069,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.90m out of 54.2m repositories</span>
+                                    <span class="gh">ranked 5.06m out of 53.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -5191,7 +5191,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2023, 10:19:00 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2023, 11:14:23 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
