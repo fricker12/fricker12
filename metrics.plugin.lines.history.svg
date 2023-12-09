@@ -1113,7 +1113,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nebula Genomics – First to offer consumer anonymous sequencing</div>
+                                <div class="title">If buying isn't owning, piracy isn't stealing</div>
                                 <div class="date">9 Dec 2023</div>
                             </div>
                         </div>
@@ -1122,8 +1122,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos</div>
-                                <div class="date">8 Dec 2023</div>
+                                <div class="title">Nebula Genomics – First to offer consumer anonymous sequencing</div>
+                                <div class="date">9 Dec 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4945,7 +4945,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.87m out of 126m users</span>
+                                    <span class="gh">ranked 2.69m out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -5069,7 +5069,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.06m out of 53.1m repositories</span>
+                                    <span class="gh">ranked 5.05m out of 55.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -5184,14 +5184,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2023, 11:14:23 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2023, 12:15:54 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
