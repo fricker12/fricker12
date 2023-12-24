@@ -802,7 +802,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">North America: Hand-Drawn Portrait of a Continent</div>
+                                <div class="title">Putting the "J" in the RPG, Part 3: Playing Final Fantasy VII</div>
                                 <div class="date">24 Dec 2023</div>
                             </div>
                         </div>
@@ -811,7 +811,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The End of Retirement</div>
+                                <div class="title">A circular 3D-printed concrete bridge</div>
                                 <div class="date">24 Dec 2023</div>
                             </div>
                         </div>
@@ -829,8 +829,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Holcim launches Phoenix, the first-of-its-kind 3D-printed concrete bridge</div>
-                                <div class="date">24 Dec 2023</div>
+                                <div class="title">Mozilla sccache: ccache with cloud storage</div>
+                                <div class="date">22 Dec 2023</div>
                             </div>
                         </div>
                     </section>
@@ -3460,7 +3460,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        304
+                                        305
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4540,7 +4540,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.88m out of 126m users</span>
+                                    <span class="gh">ranked 2.89m out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -4664,7 +4664,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 52.3m repositories</span>
+                                    <span class="gh">ranked 5.08m out of 53.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4749,7 +4749,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2023, 17:14:54 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 18:19:11 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
