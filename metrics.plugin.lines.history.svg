@@ -802,7 +802,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Challenging projects every programmer should try</div>
+                                <div class="title">Challenging projects every programmer should try (2019)</div>
                                 <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
@@ -811,7 +811,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fed court rules for retired engineer told by state to not talk about math</div>
+                                <div class="title">What are farm animals thinking?</div>
                                 <div class="date">26 Dec 2023</div>
                             </div>
                         </div>
@@ -820,8 +820,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Let it snow()</div>
-                                <div class="date">26 Dec 2023</div>
+                                <div class="title">Stirling-PDF: local web application to perform various operations on PDFs</div>
+                                <div class="date">25 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -829,8 +829,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Electronic soil boosts crop growth by over 50%</div>
-                                <div class="date">26 Dec 2023</div>
+                                <div class="title">Fake It 'Til You Fake It</div>
+                                <div class="date">25 Dec 2023</div>
                             </div>
                         </div>
                     </section>
@@ -4643,7 +4643,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.09m out of 58.6m repositories</span>
+                                    <span class="gh">ranked 4.82m out of 45.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4721,14 +4721,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 07:15:35 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 08:20:34 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
