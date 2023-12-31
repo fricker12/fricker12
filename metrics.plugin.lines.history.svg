@@ -811,7 +811,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pascal in Forth (1983)</div>
+                                <div class="title">Emacs-copilot: Large language model code completion for Emacs</div>
                                 <div class="date">31 Dec 2023</div>
                             </div>
                         </div>
@@ -820,7 +820,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emacs-copilot: Large language model code completion for Emacs</div>
+                                <div class="title">Pascal in Forth (1983)</div>
                                 <div class="date">31 Dec 2023</div>
                             </div>
                         </div>
@@ -3364,7 +3364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kuzyara/TestSendSkypeMessage.epf</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Отправка сообщений в skype из 1С</div>
@@ -4685,7 +4685,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.01m out of 57.7m repositories</span>
+                                    <span class="gh">ranked 5.04m out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4770,7 +4770,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2023, 11:14:39 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2023, 12:15:57 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
