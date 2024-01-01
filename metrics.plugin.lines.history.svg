@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4847" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="4845" class="large">
     <defs>
         <style/>
     </defs>
@@ -1078,7 +1078,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Standard Ebooks</div>
+                                <div class="title">A* Tricks for Videogame Path Finding</div>
                                 <div class="date">1 Jan 2024</div>
                             </div>
                         </div>
@@ -1087,7 +1087,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost</div>
+                                <div class="title">Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</div>
                                 <div class="date">1 Jan 2024</div>
                             </div>
                         </div>
@@ -4521,7 +4521,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 57.6m repositories</span>
+                                    <span class="gh">ranked 5.11m out of 49.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4599,14 +4599,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2024, 20:20:03 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jan 2024, 21:13:00 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
