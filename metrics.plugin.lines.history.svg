@@ -1064,6 +1064,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">OpenSUSE Leap 15.6 to Be the Last in Its Current Form</div>
+                                <div class="date">16 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Speedbump – a TCP proxy to simulate variable network latency</div>
                                 <div class="date">16 Jan 2024</div>
                             </div>
@@ -1073,7 +1082,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues</div>
+                                <div class="title">Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))</div>
                                 <div class="date">16 Jan 2024</div>
                             </div>
                         </div>
@@ -1082,16 +1091,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modeless Vim</div>
-                                <div class="date">16 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Open-Source Detector of CISA's Known Exploitable Vulnerabilities</div>
+                                <div class="title">Passwordless: A Different Kind of Hell</div>
                                 <div class="date">16 Jan 2024</div>
                             </div>
                         </div>
@@ -3961,7 +3961,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            63558 reputation points
+                            63548 reputation points
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4275,7 +4275,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 402k out of 128m users</span>
+                                    <span class="gh">ranked 402k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 65 public repositories</div>
                             </div>
@@ -4422,7 +4422,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.92m out of 128m users</span>
+                                    <span class="gh">ranked 2.92m out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -4546,7 +4546,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.98m out of 56.5m repositories</span>
+                                    <span class="gh">ranked 4.81m out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4635,7 +4635,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">d9ca989f</span>
-                            <span class="code">freeGPT/quora/graphql/MessageSetVoteMutation.graphql</span>
+                            <span class="code">freeGPT/quora/graphql/StaleChatUpdateMutation.graphql</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--7</span>
@@ -4646,7 +4646,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">mutation MessageSetVoteMutation($messageId: BigInt!, $voteType: VoteType!, $reason: String) {<br /></span><span class="token prefix deleted">-</span><span class="token line">messageSetVote(messageId: $messageId, voteType: $voteType, reason: $reason) {<br /></span><span class="token prefix deleted">-</span><span class="token line">	message {<br /></span><span class="token prefix deleted">-</span><span class="token line">		...MessageFragment<br /></span><span class="token prefix deleted">-</span><span class="token line">	}<br /></span><span class="token prefix deleted">-</span><span class="token line">}<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">mutation StaleChatUpdateMutation($chatId: BigInt!) {<br /></span><span class="token prefix deleted">-</span><span class="token line">staleChatUpdate(chatId: $chatId) {<br /></span><span class="token prefix deleted">-</span><span class="token line">    message {<br /></span><span class="token prefix deleted">-</span><span class="token line">        ...MessageFragment<br /></span><span class="token prefix deleted">-</span><span class="token line">    }<br /></span><span class="token prefix deleted">-</span><span class="token line">}<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4661,14 +4661,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2024, 15:20:12 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2024, 16:15:48 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
