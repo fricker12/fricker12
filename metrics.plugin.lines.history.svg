@@ -184,7 +184,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesPytonParsingLog</span>
+                            <span class="diff-handle">fricker12/SQLAchemyDataParser</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -201,8 +201,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +506k</span>
-                                <span class="deleted">    -51</span>
+                                <span class="added">  +101k</span>
+                                <span class="deleted">   -388</span>
                             </div>
                             <span> </span>
                         </div>
@@ -276,37 +276,37 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.312365104488485)">
+                            <g class="tick" opacity="1" transform="translate(0,6.5985081930355864)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">600k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">300k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,64.54157673632565)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">400k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,102.77078836816284)">
+                            <g class="tick" opacity="1" transform="translate(0,51.39900546202373)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,96.19950273101186)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">100k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,179.22921163183716)">
+                            <g class="tick" opacity="1" transform="translate(0,185.80049726898812)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,230.60099453797628)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,217.45842326367435)">
+                            <g class="tick" opacity="1" transform="translate(0,275.40149180696443)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.6876348955115)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−300k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L63.12,140.5L71.16,140.5L95.28,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L175.68,140.5L191.76,140.5L199.8,140.5L207.84,140.5L215.88,140.5L248.04,140.5L256.08,140.5L264.12,140.5L272.16,140.5L296.28,140.5L304.32,140.5L312.36,140.5L320.4,140.5L328.44,140.5L336.48,140.5L344.52,140.5L352.56,140.5L376.68,140.5L384.72,140.5L424.92,140.5L432.96,140.5L441,140.5L441,140.448L432.96,140.16L424.92,140.458L384.72,140.491L376.68,140.49L352.56,140.495L344.52,140.486L336.48,140.499L328.44,140.498L320.4,140.499L312.36,140.477L304.32,140.355L296.28,140.49L272.16,140.437L264.12,139.402L256.08,140.435L248.04,137.299L215.88,140.462L207.84,5L199.8,139.986L191.76,140.5L175.68,140.481L167.64,121.103L159.6,140.428L143.52,140.405L135.48,140.497L95.28,140.499L71.16,140.499L63.12,140.494L39,140.463Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L63.12,140.5L71.16,140.5L95.28,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L175.68,140.5L191.76,140.5L199.8,140.5L207.84,140.5L215.88,140.5L248.04,140.5L256.08,140.5L264.12,140.5L272.16,140.5L296.28,140.5L304.32,140.5L312.36,140.5L320.4,140.5L328.44,140.5L336.48,140.5L344.52,140.5L352.56,140.5L376.68,140.5L384.72,140.5L424.92,140.5L432.96,140.5L441,140.5L441,141.013L432.96,141.117L424.92,140.537L384.72,140.504L376.68,140.508L352.56,140.503L344.52,140.5L336.48,140.501L328.44,140.501L320.4,140.5L312.36,140.517L304.32,140.538L296.28,140.504L272.16,140.533L264.12,140.814L256.08,140.529L248.04,140.5L215.88,140.536L207.84,140.575L199.8,140.882L191.76,140.5L175.68,140.522L167.64,140.621L159.6,140.537L143.52,140.545L135.48,140.5L95.28,140.501L71.16,140.5L63.12,140.502L39,140.504Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L63.12,140.5L71.16,140.5L95.28,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L175.68,140.5L191.76,140.5L199.8,140.5L207.84,140.5L215.88,140.5L256.08,140.5L264.12,140.5L441,140.5L441,122.425L264.12,140.26L256.08,140.422L215.88,139.967L207.84,5L199.8,139.296L191.76,140.5L175.68,140.455L167.64,95.037L159.6,140.332L143.52,140.277L135.48,140.493L95.28,140.498L71.16,140.498L63.12,140.487L39,140.414Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L63.12,140.5L71.16,140.5L95.28,140.5L135.48,140.5L143.52,140.5L159.6,140.5L167.64,140.5L175.68,140.5L191.76,140.5L199.8,140.5L207.84,140.5L215.88,140.5L256.08,140.5L264.12,140.5L441,140.5L441,140.504L264.12,140.574L256.08,140.5L215.88,140.758L207.84,140.653L199.8,141.396L191.76,140.5L175.68,140.552L167.64,140.783L159.6,140.588L143.52,140.606L135.48,140.501L95.28,140.502L71.16,140.5L63.12,140.504L39,140.509Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1065,6 +1065,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]</div>
+                                <div class="date">18 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Which word begins with "y" and looks like an axe in this picture? (2017)</div>
                                 <div class="date">18 Jan 2024</div>
                             </div>
@@ -1075,15 +1084,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Ways to die on the web</div>
-                                <div class="date">18 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Flattr is closing down</div>
                                 <div class="date">18 Jan 2024</div>
                             </div>
                         </div>
@@ -3952,7 +3952,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            Account does not exists on github.community
+                            Unexpected error
                         </div>
                     </section>
                 </div>
@@ -4188,7 +4188,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.763860369609876 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.848733744010943 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4555,7 +4555,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.96m out of 50.9m repositories</span>
+                                    <span class="gh">ranked 5.04m out of 43.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4670,14 +4670,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2024, 14:31:19 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2024, 15:20:18 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
