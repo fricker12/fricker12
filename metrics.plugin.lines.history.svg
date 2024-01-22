@@ -1043,7 +1043,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Flipper Zero: Multi-Tool Device for Geeks</div>
+                                <div class="title">U.S. National Park Service API</div>
                                 <div class="date">22 Jan 2024</div>
                             </div>
                         </div>
@@ -1052,8 +1052,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Remembering Bell Labs as legendary idea factory prepares to leave N.J. home</div>
-                                <div class="date">21 Jan 2024</div>
+                                <div class="title">Flipper Zero: Multi-Tool Device for Geeks</div>
+                                <div class="date">22 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1070,7 +1070,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">US home sales see worst year since 1995</div>
+                                <div class="title">Substack Won't Make You Rich</div>
                                 <div class="date">22 Jan 2024</div>
                             </div>
                         </div>
@@ -4553,7 +4553,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 53m repositories</span>
+                                    <span class="gh">ranked 5.07m out of 51.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4668,14 +4668,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2024, 05:18:02 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2024, 06:20:44 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
