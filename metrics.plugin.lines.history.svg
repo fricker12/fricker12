@@ -184,13 +184,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/SQLAchemyDataParser</span>
+                            <span class="diff-handle">fricker12/DataBasesPytonParsingLog</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesLogParsing_</span>
+                            <span class="diff-handle">fricker12/SQLAchemyDataParser</span>
                         </div>
                     </section>
                     <section>
@@ -201,8 +201,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +101k</span>
-                                <span class="deleted">   -388</span>
+                                <span class="added">  +506k</span>
+                                <span class="deleted">    -51</span>
                             </div>
                             <span> </span>
                         </div>
@@ -214,7 +214,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added">  +101k</span>
-                                <span class="deleted">   -179</span>
+                                <span class="deleted">   -388</span>
                             </div>
                             <span> </span>
                         </div>
@@ -288,45 +288,37 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,6.40381339306555)">
+                            <g class="tick" opacity="1" transform="translate(0,26.19089661249597)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">600k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,64.46059774166397)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">400k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,102.730298870832)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">200k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,40.05286004479918)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">150k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,73.70190669653277)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">100k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,107.3509533482664)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">50k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,174.6490466517336)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−50k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,208.29809330346723)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,241.94713995520084)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−150k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,275.59618660693445)">
+                            <g class="tick" opacity="1" transform="translate(0,179.269701129168)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,217.539402258336)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,255.80910338750405)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−600k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L57.844,140.5L64.125,140.5L82.969,140.5L114.375,140.5L120.656,140.5L133.219,140.5L139.5,140.5L145.781,140.5L158.344,140.5L170.906,140.5L177.188,140.5L202.313,140.5L208.594,140.5L214.875,140.5L221.156,140.5L240,140.5L246.281,140.5L252.563,140.5L258.844,140.5L265.125,140.5L271.406,140.5L277.688,140.5L283.969,140.5L302.813,140.5L309.094,140.5L340.5,140.5L346.781,140.5L353.063,140.5L359.344,140.5L365.625,140.5L371.906,140.5L378.188,140.5L403.313,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.456L434.719,140.391L428.438,138.785L422.156,135.838L415.875,139.618L409.594,140.499L403.313,140.469L378.188,140.139L371.906,140.19L365.625,140.134L359.344,140.248L353.063,112.989L346.781,139.302L340.5,140.353L309.094,140.468L302.813,140.464L283.969,140.481L277.688,140.451L271.406,140.497L265.125,140.493L258.844,140.497L252.563,140.421L246.281,139.991L240,140.464L221.156,140.277L214.875,136.994L208.594,140.389L202.313,129.232L177.188,139.835L170.906,5L158.344,140.499L145.781,140.432L139.5,72.207L133.219,140.248L120.656,140.165L114.375,140.489L82.969,140.497L64.125,140.497L57.844,140.48L39,140.37Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L57.844,140.5L64.125,140.5L82.969,140.5L114.375,140.5L120.656,140.5L133.219,140.5L139.5,140.5L145.781,140.5L158.344,140.5L170.906,140.5L177.188,140.5L202.313,140.5L208.594,140.5L214.875,140.5L221.156,140.5L240,140.5L246.281,140.5L252.563,140.5L258.844,140.5L265.125,140.5L271.406,140.5L277.688,140.5L283.969,140.5L302.813,140.5L309.094,140.5L340.5,140.5L346.781,140.5L353.063,140.5L359.344,140.5L365.625,140.5L371.906,140.5L378.188,140.5L403.313,140.5L409.594,140.5L415.875,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.542L434.719,140.564L428.438,141.096L422.156,140.739L415.875,140.918L409.594,140.501L403.313,140.52L378.188,140.698L371.906,140.943L365.625,140.624L359.344,140.605L353.063,142.322L346.781,142.674L340.5,140.63L309.094,140.515L302.813,140.53L283.969,140.509L277.688,140.501L271.406,140.503L265.125,140.504L258.844,140.501L252.563,140.559L246.281,140.635L240,140.513L221.156,140.616L214.875,141.495L208.594,140.6L202.313,140.501L177.188,140.76L170.906,140.621L158.344,140.501L145.781,140.577L139.5,140.925L133.219,140.632L120.656,140.659L114.375,140.501L82.969,140.503L64.125,140.501L57.844,140.506L39,140.513Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L57.844,140.5L64.125,140.5L82.969,140.5L114.375,140.5L120.656,140.5L139.5,140.5L145.781,140.5L158.344,140.5L164.625,140.5L170.906,140.5L177.188,140.5L208.594,140.5L214.875,140.5L353.063,140.5L359.344,140.5L365.625,140.5L378.188,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.487L434.719,140.469L428.438,140.012L422.156,139.201L378.188,140.398L365.625,140.408L359.344,140.463L353.063,132.73L214.875,140.398L208.594,140.467L177.188,140.272L170.906,5L164.625,139.986L158.344,140.5L145.781,140.481L139.5,121.139L120.656,140.405L114.375,140.497L82.969,140.499L64.125,140.499L57.844,140.494L39,140.463Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L57.844,140.5L64.125,140.5L82.969,140.5L114.375,140.5L120.656,140.5L139.5,140.5L145.781,140.5L158.344,140.5L164.625,140.5L170.906,140.5L177.188,140.5L208.594,140.5L214.875,140.5L353.063,140.5L359.344,140.5L365.625,140.5L378.188,140.5L422.156,140.5L428.438,140.5L434.719,140.5L441,140.5L441,140.512L434.719,140.518L428.438,140.67L422.156,140.556L378.188,140.511L365.625,140.508L359.344,140.514L353.063,140.504L214.875,140.532L208.594,140.5L177.188,140.61L170.906,140.572L164.625,140.883L158.344,140.5L145.781,140.522L139.5,140.585L120.656,140.545L114.375,140.5L82.969,140.501L64.125,140.5L57.844,140.502L39,140.504Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1091,8 +1083,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ruby vs. Python comes down to the for loop (2021)</div>
-                                <div class="date">22 Apr 2024</div>
+                                <div class="title">I should have loved biology (2020)</div>
+                                <div class="date">21 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1100,8 +1092,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I should have loved biology (2020)</div>
-                                <div class="date">21 Apr 2024</div>
+                                <div class="title">Ruby vs. Python comes down to the for loop (2021)</div>
+                                <div class="date">22 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -4789,7 +4781,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 Apr 2024, 15:17:14
+                            On 19 Apr 2024, 16:53:02
                         </div>
                     </section>
                 </div>
@@ -4799,13 +4791,13 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix instagram
+                            add shorts youtube
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">31a9e3f1</span>
+                            <span class="code">890aca64</span>
                             <span class="code">HANDLERS/user_group.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -4817,7 +4809,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1093,7 +1093,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">strImg = ""<br /></span><span class="token prefix unchanged">·</span><span class="token line">try:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    InstaContent = await instagram.APIInstagram(Link)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    if type(InstaContent) == dict and InstaContent.get('status')==200:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    if type(InstaContent) == dict or InstaContent.get('status')==200:<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">            content = InstaContent["media"]<br /></span><span class="token prefix unchanged">·</span><span class="token line">            try:<br /></span><span class="token prefix unchanged">·</span><span class="token line">                descr = InstaContent["title"]</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1438,7 +1438,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">@user_group_router.message(<br /></span><span class="token prefix unchanged">·</span><span class="token line">StateFilter(None),<br /></span><span class="token prefix unchanged">·</span><span class="token line">F.text.regexp(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    r"https?:\/\/(music\.|www\.|m\.)?youtu(?:\.be\/|be\.com\/watch\?v=)[\w-]+"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    r"https?://(?:music\.|www\.|m\.)?youtu(?:\.be/|be\.com/watch\?v=|be\.com/shorts/)[\w-]+"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">),<br /></span><span class="token prefix unchanged">·</span><span class="token line">)<br /></span><span class="token prefix unchanged">·</span><span class="token line">async def youtube_message(message: types.Message, bot: Bot, ChatID:int):</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4839,7 +4831,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2024, 10:15:51 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 11:21:51 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
