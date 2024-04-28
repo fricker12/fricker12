@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="5069" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="5055" class="large">
     <defs>
         <style/>
     </defs>
@@ -1076,24 +1076,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Did we lose our way in making efficient software? – ~30 MB doc file vs. browser</div>
-                                <div class="date">28 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The unstallable plane that stalled</div>
-                                <div class="date">28 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Zilog Z80 CPU – Modern, free and open source silicon clone</div>
                                 <div class="date">28 Apr 2024</div>
                             </div>
@@ -1104,6 +1086,24 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Talking to memory: Inside the Intel 8088 processor's bus interface state machine</div>
+                                <div class="date">28 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Zed Decoded: Rope and SumTree</div>
+                                <div class="date">28 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">TfL's simple pop-up message led to a significant drop in paper ticket sales</div>
                                 <div class="date">28 Apr 2024</div>
                             </div>
                         </div>
@@ -3373,7 +3373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fricker12/IT_TUSOVKAv4</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4771,7 +4771,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Apr 2024, 01:08:32
+                            On 28 Apr 2024, 17:33:40
                         </div>
                     </section>
                 </div>
@@ -4787,11 +4787,11 @@ double delta = Math.Abs(ts.TotalSeconds);
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6635d998</span>
-                            <span class="code">app.py</span>
+                            <span class="code">102f92d0</span>
+                            <span class="code">THELETHON/thelethon.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -4799,7 +4799,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -661,7 +661,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">                   print(es)<br /></span><span class="token prefix unchanged">·</span><span class="token line">       await client.disconnect()<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   sessions = []s<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   sessions = []<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   sessions.append(<br /></span><span class="token prefix unchanged">·</span><span class="token line">       thelethon.run_client(<br /></span><span class="token prefix unchanged">·</span><span class="token line">           thelethon.TelegramClient(</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -221,6 +221,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># MediaFromWeb_Bot   - для тестов<br /></span><span class="token prefix unchanged">·</span><span class="token line">await asyncio.sleep(10)<br /></span><span class="token prefix unchanged">·</span><span class="token line">try:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    await client.get_entity(PeerUser(bot_name))<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    await client.send_file(<br /></span><span class="token prefix unchanged">·</span><span class="token line">        bot_name,<br /></span><span class="token prefix unchanged">·</span><span class="token line">        file_path,</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4821,7 +4821,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2024, 20:14:15 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2024, 21:19:19 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
