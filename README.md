@@ -7,6 +7,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21f6yy7o4zdnzdffahkzebd6i&unique={true|1|on|yes})
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21f6yy7o4zdnzdffahkzebd6i&width={400})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21f6yy7o4zdnzdffahkzebd6i&width=400)
 
 <img src="/metrics.plugin.lines.history.svg" alt="Metrics" width="100%">
