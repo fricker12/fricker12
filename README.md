@@ -1,4 +1,4 @@
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21f6yy7o4zdnzdffahkzebd6i&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21f6yy7o4zdnzdffahkzebd6i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 <details>
     <summary>Recently played</summary>
