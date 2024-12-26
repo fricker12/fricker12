@@ -643,7 +643,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 59.6 characters per line of code written</li>
+                        <li>Has approximately 55.3 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1066,8 +1066,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unorm and SNORM to float, hardware edition</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">Differential Growth Addon for Blender</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1075,8 +1075,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Differential Growth Addon for Blender</div>
-                                <div class="date">26 Dec 2024</div>
+                                <div class="title">Unorm and SNORM to float, hardware edition</div>
+                                <div class="date">24 Dec 2024</div>
                             </div>
                         </div>
                     </section>
@@ -4856,7 +4856,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.97m out of 152m users</span>
+                                    <span class="gh">ranked 2.98m out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -4980,7 +4980,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.50m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.50m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -5065,7 +5065,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2024, 16:17:31 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2024, 17:19:54 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
