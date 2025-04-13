@@ -184,13 +184,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesLogParsing_</span>
+                            <span class="diff-handle">fricker12/DataBasesPytonParsingLog</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">fricker12/DataBasesLogParsing</span>
+                            <span class="diff-handle">fricker12/ParsingAccessLog</span>
                         </div>
                     </section>
                     <section>
@@ -201,8 +201,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +101k</span>
-                                <span class="deleted">   -179</span>
+                                <span class="added">  +506k</span>
+                                <span class="deleted">    -51</span>
                             </div>
                             <span> </span>
                         </div>
@@ -214,7 +214,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added">  +100k</span>
-                                <span class="deleted">    -19</span>
+                                <span class="deleted">   -427</span>
                             </div>
                             <span> </span>
                         </div>
@@ -292,29 +292,45 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,40.087693167008005)">
+                            <g class="tick" opacity="1" transform="translate(0,8.933723196881099)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,90.54384658350399)">
+                            <g class="tick" opacity="1" transform="translate(0,41.95029239766083)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,74.96686159844054)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,107.98343079922027)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,191.456153416496)">
+                            <g class="tick" opacity="1" transform="translate(0,174.01656920077974)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,241.912306832992)">
+                            <g class="tick" opacity="1" transform="translate(0,207.03313840155946)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,240.04970760233917)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,273.0662768031189)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L45,140.5L51,140.5L57,140.5L63,140.5L69,140.5L75,140.5L81,140.5L87,140.5L93,140.5L99,140.5L105,140.5L111,140.5L117,140.5L123,140.5L129,140.5L135,140.5L141,140.5L147,140.5L153,140.5L159,140.5L165,140.5L171,140.5L177,140.5L183,140.5L189,140.5L195,140.5L201,140.5L207,140.5L213,140.5L219,140.5L225,140.5L231,140.5L237,140.5L243,140.5L249,140.5L255,140.5L261,140.5L267,140.5L273,140.5L279,140.5L285,140.5L291,140.5L297,140.5L303,140.5L309,140.5L315,140.5L321,140.5L327,140.5L333,140.5L339,140.5L345,140.5L351,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,140.046L435,136.59L429,136.59L423,136.539L417,136.464L411,136.438L405,136.464L399,136.464L393,136.438L387,136.464L381,136.438L375,136.438L369,136.438L363,136.438L357,136.489L351,136.438L345,136.438L339,136.514L333,136.59L327,136.615L321,136.59L315,136.489L309,136.438L303,136.438L297,136.464L291,136.438L285,136.464L279,136.464L273,136.438L267,136.312L261,136.464L255,136.06L249,136.438L243,136.413L237,136.438L231,136.514L225,136.438L219,133.436L213,136.438L207,136.438L201,136.438L195,136.438L189,136.438L183,136.438L177,136.438L171,136.438L165,96.679L159,5L153,136.438L147,135.202L141,136.438L135,136.438L129,136.842L123,136.413L117,133.032L111,103.364L105,136.388L99,135.303L93,136.514L87,136.438L81,136.464L75,122.916L69,124.833L63,134.899L57,129.021L51,129.601L45,91.558L39,130.939Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L45,140.5L51,140.5L57,140.5L63,140.5L69,140.5L75,140.5L81,140.5L87,140.5L93,140.5L99,140.5L105,140.5L111,140.5L117,140.5L123,140.5L129,140.5L135,140.5L141,140.5L147,140.5L153,140.5L159,140.5L165,140.5L171,140.5L177,140.5L183,140.5L189,140.5L195,140.5L201,140.5L207,140.5L213,140.5L219,140.5L225,140.5L231,140.5L237,140.5L243,140.5L249,140.5L255,140.5L261,140.5L267,140.5L273,140.5L279,140.5L285,140.5L291,140.5L297,140.5L303,140.5L309,140.5L315,140.5L321,140.5L327,140.5L333,140.5L339,140.5L345,140.5L351,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,140.954L435,144.41L429,144.41L423,144.461L417,144.536L411,144.562L405,144.536L399,144.536L393,144.562L387,144.536L381,144.562L375,144.562L369,144.562L363,144.562L357,144.511L351,144.562L345,144.562L339,144.486L333,144.41L327,144.385L321,144.41L315,144.511L309,144.562L303,144.562L297,144.536L291,144.562L285,144.536L279,144.536L273,144.562L267,144.688L261,144.536L255,144.94L249,144.562L243,144.587L237,144.562L231,144.486L225,144.562L219,144.612L213,144.562L207,144.562L201,144.562L195,144.562L189,144.562L183,144.562L177,144.562L171,144.562L165,178.519L159,179.376L153,144.562L147,144.612L141,144.562L135,144.562L129,144.158L123,144.587L117,146.126L111,160.228L105,144.612L99,145.268L93,144.486L87,144.562L81,144.536L75,151.979L69,161.162L63,148.119L57,146.706L51,212.324L45,226.023L39,149.431Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L45,140.5L51,140.5L57,140.5L63,140.5L69,140.5L75,140.5L81,140.5L87,140.5L93,140.5L99,140.5L105,140.5L111,140.5L117,140.5L123,140.5L129,140.5L135,140.5L141,140.5L147,140.5L153,140.5L159,140.5L165,140.5L171,140.5L177,140.5L183,140.5L189,140.5L195,140.5L201,140.5L207,140.5L213,140.5L219,140.5L225,140.5L231,140.5L237,140.5L243,140.5L249,140.5L255,140.5L261,140.5L267,140.5L273,140.5L279,140.5L285,140.5L291,140.5L297,140.5L303,140.5L309,140.5L315,140.5L321,140.5L327,140.5L333,140.5L339,140.5L345,140.5L351,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,140.437L435,139.988L429,139.988L423,139.982L417,139.972L411,139.968L405,139.972L399,139.972L393,139.968L387,139.972L381,139.968L375,139.968L369,139.087L363,130.843L357,127.095L351,139.734L345,139.886L339,139.714L333,139.988L327,139.992L321,139.988L315,139.955L309,139.853L303,139.955L297,136.185L291,139.968L285,139.972L279,139.972L273,139.968L267,138.225L261,138.05L255,135.647L249,136.35L243,139.222L237,136.35L231,139.351L225,135.544L219,134.134L213,138.582L207,136.251L201,139.123L195,139.959L189,139.097L183,137.116L177,137.746L171,133.101L165,132.695L159,121.747L153,137.317L147,139.183L141,133.088L135,139.582L129,139.486L123,131.553L117,117.101L111,135.64L105,139.962L99,139.82L93,139.978L87,139.968L81,139.972L75,138.199L69,138.45L63,138.172L57,138.73L51,5L45,134.095L39,139.249Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L45,140.5L51,140.5L57,140.5L63,140.5L69,140.5L75,140.5L81,140.5L87,140.5L93,140.5L99,140.5L105,140.5L111,140.5L117,140.5L123,140.5L129,140.5L135,140.5L141,140.5L147,140.5L153,140.5L159,140.5L165,140.5L171,140.5L177,140.5L183,140.5L189,140.5L195,140.5L201,140.5L207,140.5L213,140.5L219,140.5L225,140.5L231,140.5L237,140.5L243,140.5L249,140.5L255,140.5L261,140.5L267,140.5L273,140.5L279,140.5L285,140.5L291,140.5L297,140.5L303,140.5L309,140.5L315,140.5L321,140.5L327,140.5L333,140.5L339,140.5L345,140.5L351,140.5L357,140.5L363,140.5L369,140.5L375,140.5L381,140.5L387,140.5L393,140.5L399,140.5L405,140.5L411,140.5L417,140.5L423,140.5L429,140.5L435,140.5L441,140.5L441,140.563L435,141.012L429,141.012L423,141.018L417,141.028L411,141.032L405,141.028L399,141.028L393,141.032L387,141.028L381,141.032L375,141.032L369,143.138L363,145.225L357,158.177L351,141.144L345,141.121L339,141.213L333,141.012L327,141.008L321,141.012L315,141.121L309,141.078L303,141.041L297,144.944L291,141.032L285,141.028L279,141.028L273,141.032L267,141.798L261,142.54L255,143.544L249,143.561L243,141.893L237,143.217L231,141.117L225,144.716L219,144.63L213,142.289L207,143.884L201,141.226L195,141.041L189,141.553L183,143.151L177,142.369L171,145.898L165,146.526L159,145.766L153,144.528L147,141.784L141,146.453L135,141.355L129,141.292L123,143.96L117,142.2L111,143.082L105,141.038L99,141.124L93,141.022L87,141.032L81,141.028L75,142.002L69,143.204L63,141.639L57,141.547L51,149.972L45,151.693L39,141.669Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -792,8 +808,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Writing my own dithering algorithm in Racket</div>
-                                <div class="date">13 Apr 2025</div>
+                                <div class="title">What is GNU Radio?</div>
+                                <div class="date">14 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -810,7 +826,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Fennel?</div>
+                                <div class="title">Writing my own dithering algorithm in Racket</div>
                                 <div class="date">13 Apr 2025</div>
                             </div>
                         </div>
@@ -819,8 +835,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mistakes and cool things to do with arena allocators</div>
-                                <div class="date">10 Apr 2025</div>
+                                <div class="title">Why Fennel?</div>
+                                <div class="date">13 Apr 2025</div>
                             </div>
                         </div>
                     </section>
@@ -3898,14 +3914,14 @@ double delta = Math.Abs(ts.TotalSeconds);
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2025, 00:19:15 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2025, 01:19:31 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
